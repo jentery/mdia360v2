@@ -2,11 +2,11 @@
 
 "Games as both culture and material. Surveys approaches to play and games around the world, from board and tabletop games to video games, alternate reality games and even sports."
 
-## Module 1: Culture (Four Sessions) 
+# Module 1: Culture (Four Sessions) 
 
 We'll begin the course by contextualizing play and attending to the activities, norms, assumptions, and communities at work in games.  
 
-### Situating Play in Games 
+## Situating Play in Games 
 
 How do we know we're playing? Who is free to play? How is play shaped by the game you're playing and where you play it? By socialization or cultural assumptions about what *counts* as work or fun?   
 
