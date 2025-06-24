@@ -18,7 +18,7 @@ How do we know we're playing? Who is free to play? How is play shaped by the gam
 
 **References**: [Caillois](https://www.press.uillinois.edu/books/?id=p070334), [Du Bois](https://archive.org/details/sociologicalsoul0000dubo), [Fickle](https://academic.oup.com/nyu-press-scholarship-online/book/30900), [Huizinga](https://archive.org/details/homoludensstudyo1950huiz/page/n9/mode/2up), [Jin](https://www.youtube.com/watch?v=q3cmCKjPLR8), [McPherson](https://www.museumofplay.org/app/uploads/2022/01/13-2-Article-12-Free-to-go.pdf), [Pearce](https://mitpress.mit.edu/9780262550819/playframes/), [Suits](https://broadviewpress.com/product/the-grasshopper-third-edition/#tab-description), [Salen Tekinbaş and Zimmerman](https://mitpress.mit.edu/9780262240451/rules-of-play/), and [Trammell](https://nyupress.org/9781479818433/the-privilege-of-play/)
 
-### 2. Gamification: Motivation, Behaviour, and Learning 
+### 1.2 Gamification: Motivation, Behaviour, and Learning 
 
 What is gamification, what does it assume about people, and does it even work? Are games and gamification the same thing? How do companies instrumentalize game design to encourage productivity, track, learning and norm behaviours? To motivate people to play and keep playing? 
 
