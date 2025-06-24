@@ -20,7 +20,7 @@ How do we know we're playing? Who is free to play? How is play shaped by the gam
 
 ### 1.2 Gamification: Motivation, Behaviour, and Learning 
 
-What is gamification, what does it assume about people, and does it even work? Are games and gamification the same thing? How do companies instrumentalize game design to encourage productivity, track, learning and norm behaviours? To motivate people to play and keep playing? 
+What is gamification, what does it assume about people, and does it even work? Are games and gamification the same thing? How do companies instrumentalize game design to encourage productivity, track learning, and norm behaviours? To motivate people to play and keep playing? 
 
 **Examples**: [*Duolingo*](https://www.duolingo.com/), dating apps, and wearable tech and fitness monitors
 
