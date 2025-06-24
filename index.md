@@ -10,7 +10,7 @@ How do we know we're playing? Who is free to play? How is play shaped by the gam
 
 **Examples**: [*Pokémon GO*](https://pokemongo.com/), [*Squid Game*](https://en.wikipedia.org/wiki/Squid_Game), and [*World of Warcraft*](https://worldofwarcraft.blizzard.com/en-us/) 
 
-**Discussion**: Treating romance as a game in [*Fog of Love*](https://floodgate.games/products/fog-of-love) 
+**Discussion**: treating romance as a game in [*Fog of Love*](https://floodgate.games/products/fog-of-love) 
 
 **Concepts**: affordances, agôn, alea, alternate reality games, arcade games, bleed, board games, card games, chess, conventions, customs, fair play, game, gameshow, goldfarming, "got played," grinding, ilinx, immersion, labour, leisure, local game store, ludus, magic circle, mimicry, paidia, parameters, parlor games, play, the privilege of play, the right to play, the sanctity of play, sport, tabletop games, toys, unnecessary obstacle, video games, voluntary attempt, "well played," and work
 
