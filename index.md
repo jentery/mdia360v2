@@ -1,10 +1,12 @@
+# Game Studies (DRAFT) 
+
 Media Studies 360: "Games as both culture and material. Surveys approaches to play and games around the world, from board and tabletop games to video games, alternate reality games and even sports."
 
 ## MODULE 1: CULTURE 
 
 We'll begin the course by contextualizing play and attending to the activities, norms, assumptions, and communities at work in games.  
 
-## 1.1 Situating Play in Games 
+## 1.1: Situating Play in Games 
 
 How do we know we're playing? Who is free to play? How is play shaped by the game you're playing and where you play it? By socialization? By cultural assumptions about what *counts* as work or leisure?   
 
@@ -16,7 +18,7 @@ How do we know we're playing? Who is free to play? How is play shaped by the gam
 
 **References**: [Caillois](https://www.press.uillinois.edu/books/?id=p070334), [Du Bois](https://archive.org/details/sociologicalsoul0000dubo), [Fickle](https://academic.oup.com/nyu-press-scholarship-online/book/30900), [Huizinga](https://archive.org/details/homoludensstudyo1950huiz/page/n9/mode/2up), [Jin](https://www.youtube.com/watch?v=q3cmCKjPLR8), [McPherson](https://www.museumofplay.org/app/uploads/2022/01/13-2-Article-12-Free-to-go.pdf), [Pearce](https://mitpress.mit.edu/9780262550819/playframes/), [Suits](https://broadviewpress.com/product/the-grasshopper-third-edition/#tab-description), [Salen Tekinbaş and Zimmerman](https://mitpress.mit.edu/9780262240451/rules-of-play/), and [Trammell](https://nyupress.org/9781479818433/the-privilege-of-play/)
 
-## 1.2 Gamification: Motivation, Behaviour, and Learning 
+## 1.2: Gamification: Motivation, Behaviour, and Learning 
 
 What is gamification, what does it assume about people, and does it even work? Are games and gamification the same thing? How do companies instrumentalize game design to encourage productivity, track learning, and normalize behaviours? To motivate people to play and keep playing?
 
@@ -28,7 +30,7 @@ What is gamification, what does it assume about people, and does it even work? A
 
 **References**: [Dalisay et al.](https://gamestudies.org/2103/articles/dalisay_kushin_kim_forbes_david_somera), [Hamari et al.](https://ieeexplore.ieee.org/document/6758978), [Jagoda](https://press.uchicago.edu/ucp/books/book/chicago/E/bo38460558.html), [Johnson and Brock](https://intellectdiscover.com/content/journals/10.1386/jgvw_00011_1), [Krath et al.](https://www.sciencedirect.com/science/article/pii/S0747563221002867), [Whitson and French](https://journals.sagepub.com/doi/10.1177/1469540521993922), and [Zimmerman](https://direct.mit.edu/books/edited-volume/3066/chapter-abstract/83867/Manifesto-for-a-Ludic-Century?redirectedFrom=fulltext) 
 
-## 1.3 Ownership, Rights, and EDI in Game Industries 
+## 1.3: Ownership, Rights, and EDI in Game Industries 
 
 Who owns the games you play? How do games become global commodities? What rights do game designers and developers have as workers? And what's the state of equity, diversity, and inclusion in game industries, including game industries in Canada? 
 
@@ -40,7 +42,7 @@ Who owns the games you play? How do games become global commodities? What rights
 
 **References**: [Bailey et al.](https://journals.sagepub.com/doi/10.1177/1555412019868381), [Bulut](https://www.cornellpress.cornell.edu/book/9781501746536/a-precarious-game/#bookTabs=1),[de Castell and Skardzius](https://journals.sagepub.com/doi/10.1177/1527476419851078), [Dept. of Fair Employment and Housing v. Activision Blizzard, Inc.](https://aboutblaw.com/YJw), [Dyer-Witheford and de Peuter](https://www.upress.umn.edu/9780816666119/games-of-empire/), [Fung](https://link.springer.com/book/10.1007/978-3-319-40760-9), [Johns](https://academic.oup.com/joeg/article/6/2/151/909360), [Keogh](https://direct.mit.edu/books/oa-monograph/5572/The-Videogame-Industry-Does-Not-ExistWhy-We-Should), [LaPensée, Laiti, and Longboat](https://journals.sagepub.com/doi/10.1177/15554120211029195), [Mejeur et al.](https://journals.sagepub.com/doi/10.1177/1555412020963833), [Miles et al.](https://par.nsf.gov/biblio/10552391-black-women-getting-seat-table-video-game-industry), [Ong](https://www.newsweek.com/2016/10/21/video-games-race-black-protagonists-509328.html), [Patterson](https://nyupress.org/9781479802043/open-world-empire/), and [Thomas](https://youtu.be/gL0smN0gBEc?si=0k2NPfIenF7vqdTD)
 
-## 1.4 Hate, Toxicity, and Harassment in Gaming Communities 
+## 1.4: Hate, Toxicity, and Harassment in Gaming Communities 
 
 **Examples**: 
 
@@ -50,9 +52,9 @@ Who owns the games you play? How do games become global commodities? What rights
 
 **References**: 
 
-## MODULE 2: METAGAMES AND OTHER MATTERS OF PLAY
+## MODULE 2: PLAY AND METAGAMING
 
-## 2.1 Escapism and Satisfaction
+## 2.1: Escapism and Satisfaction
 
 **Examples**: 
 
@@ -62,7 +64,7 @@ Who owns the games you play? How do games become global commodities? What rights
 
 **References**:
 
-## 2.2 Agency and Affect 
+## 2.2: Agency and Affect 
 
 **Examples**: 
 
@@ -72,7 +74,7 @@ Who owns the games you play? How do games become global commodities? What rights
 
 **References**: 
 
-## 2.3 Playstyles and Replays 
+## 2.3: Playstyles and Replays 
 
 **Examples**: 
 
@@ -82,7 +84,7 @@ Who owns the games you play? How do games become global commodities? What rights
 
 **References**:
 
-## 2.4 Roleplay 
+## 2.4: Roleplay 
 
 **Examples**: 
 
@@ -92,7 +94,7 @@ Who owns the games you play? How do games become global commodities? What rights
 
 **References**:
 
-## 2.5 Theorycrafting and Cheating 
+## 2.5: Theorycrafting and Cheating 
 
 **Examples**: 
 
@@ -102,7 +104,7 @@ Who owns the games you play? How do games become global commodities? What rights
 
 **References**: 
 
-## 2.6 House Rules and Making Your Own Fun 
+## 2.6: House Rules and Making Your Own Fun 
 
 **Examples**: 
 
@@ -112,7 +114,7 @@ Who owns the games you play? How do games become global commodities? What rights
 
 **Research**: 
   
-## 2.7 Content Creation and Backseat Gaming
+## 2.7: Content Creation and Backseat Gaming
 
 **Examples**: 
 
@@ -124,7 +126,7 @@ Who owns the games you play? How do games become global commodities? What rights
 
 ## MODULE 3: VALUES AND DESIGN 
 
-## 3.1 Modes, Genres, and Power Fantasies 
+## 3.1: Modes, Genres, and Power Fantasies 
 
 **Examples**: 
 
@@ -134,7 +136,7 @@ Who owns the games you play? How do games become global commodities? What rights
 
 **References**:
 
-## 3.2 Accessibility, Trust, and Tutorialization  
+## 3.2: Accessibility, Trust, and Tutorialization  
 
 **Examples**: 
 
@@ -144,7 +146,7 @@ Who owns the games you play? How do games become global commodities? What rights
 
 **References**: 
 
-## 3.3 Worldbuilding and Worldviews  
+## 3.3: Worldbuilding and Worldviews  
 
 **Examples**: 
 
@@ -154,7 +156,7 @@ Who owns the games you play? How do games become global commodities? What rights
 
 **References**: 
 
-## 3.4 Vibes and Perspectives 
+## 3.4: Vibes and Perspectives 
 
 **Examples**: 
 
@@ -164,7 +166,7 @@ Who owns the games you play? How do games become global commodities? What rights
 
 **References**: 
 
-## 3.5 Habits and Mechanics 
+## 3.5: Habits and Mechanics 
 
 **Examples**: 
 
@@ -174,7 +176,7 @@ Who owns the games you play? How do games become global commodities? What rights
 
 **References**: 
 
-## 3.6 Narrative, Pacing, and Progression
+## 3.6: Narrative, Pacing, and Progression
 
 **Examples**: 
 
@@ -184,7 +186,7 @@ Who owns the games you play? How do games become global commodities? What rights
 
 **References**: 
 
-## 3.7 Simulation and Management 
+## 3.7: Simulation and Management 
 
 **Examples**: 
 
@@ -194,7 +196,7 @@ Who owns the games you play? How do games become global commodities? What rights
 
 **References**: 
 
-## 3.8 Puzzles and Easter Eggs 
+## 3.8: Puzzles and Easter Eggs 
 
 **Examples**: 
 
@@ -204,7 +206,7 @@ Who owns the games you play? How do games become global commodities? What rights
 
 **References**: 
 
-## 3.9 Localization and Preservation 
+## 3.9: Localization and Preservation 
 
 **Examples**: 
 
