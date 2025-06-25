@@ -1,5 +1,3 @@
-# Game Studies (DRAFT) 
-
 Media Studies 360: "Games as both culture and material. Surveys approaches to play and games around the world, from board and tabletop games to video games, alternate reality games and even sports."
 
 ## MODULE 1: CULTURE 
@@ -52,7 +50,7 @@ Who owns the games you play? How do games become global commodities? What rights
 
 **References**: 
 
-## MODULE 2: METAGAMES AND MATTERS OF PLAY
+## MODULE 2: METAGAMES AND OTHER MATTERS OF PLAY
 
 ## 2.1 Escapism and Satisfaction
 
@@ -60,7 +58,7 @@ Who owns the games you play? How do games become global commodities? What rights
 
 **Activity**: 
 
-**Concepts**: attainable outcomes, avatar identification, boredom, choice, clear outcomes, confusion, consequence, desirable outcomes, digital-analog binary, entertainment, escapism, horizon of action, horizon of intent, metagame, pleasure, predictability, real life, satisfaction, spectacle, Trojan player scale, uncertainty, variety, and winning and losing 
+**Concepts**: attainable outcomes, avatar identification, boredom, choice, clear outcomes, confusion, consequence, desirable outcomes, digital-analog binary, entertainment, escapism, experience design (UX), horizon of action, horizon of intent, metagame, moral panic, pleasure, predictability, real life, satisfaction, social comfort, social gaming, spectacle, Trojan player scale, task communication, uncertainty, variety, and winning and losing 
 
 **References**:
 
@@ -70,7 +68,7 @@ Who owns the games you play? How do games become global commodities? What rights
 
 **Activity**: 
 
-**Concepts**: affect, agency, bouncing, buffs, chance, character agency, critical play, disgust, experience design (UX), goosebumps, horror, jumpscares, library of agency, love letters and breakup letters, monsters everywhere, player agency, playing with feeling(s), possibility space, rage quitting, randomization, romance options, shared pulse, system agency, survival, tilt, violence is the only option?, and visceral experience
+**Concepts**: affect, agency, bouncing, buffs, chance, character agency, critical play, disgust, goosebumps, horror, jumpscares, library of agency, love letters and breakup letters, monsters everywhere, player agency, playing with feeling(s), possibility space, rage quitting, randomization, romance options, shared pulse, system agency, survival, tilt, violence is the only option?, and visceral experience
 
 **References**: 
 
@@ -80,7 +78,7 @@ Who owns the games you play? How do games become global commodities? What rights
 
 **Activity**: 
 
-**Concepts**: aesthetic appreciation (of agency), capture, charades, clip, competitive performance, dance, dexterity, documentation, game highlights, expressive mechanics, esports, fan art, jiggle physics, motion controls, movesets, player expression, player performance, player personality, player types, playstyle, rhythm and rhythm games, subjectivity, sweatlord, and variable player goals  
+**Concepts**: aesthetic appreciation (of agency), capture, charades, clip, competitive performance, dance, dexterity, documentation, game highlights, expressive mechanics, esports, fan art, jiggle physics, joke characters, motion controls, movesets, player expression, player performance, player personality, player types, playstyle, rhythm and rhythm games, subjectivity, sweatlord, and variable player goals  
 
 **References**:
 
@@ -90,7 +88,7 @@ Who owns the games you play? How do games become global commodities? What rights
 
 **Activity**: 
 
-**Concepts**: actual play or live play, back stage, character, character customization, character immersion, character sheet, computer RPG (CRPG), dramaturgy, face cam, front stage, game master (GM), impressions management, in-character, live-action RPG (LARP), massively multiplayer online RPG (MMORPG), multiplayer online RPG (MORPG), non-player character (NPC), out-of-character, party (of characters), player character, roleplaying game (RPG), storytelling, tabletop RPG (TTRPG), shared fantasy, theatre of the mind, and verbal and oral communication   
+**Concepts**: actual play or live play, back stage, character, character customization, character immersion, character sheet, computer RPG (CRPG), dramaturgy, face cam, front stage, game master (GM), impressions management, in-character, live-action RPG (LARP), massively multiplayer online RPG (MMORPG), multiplayer online RPG (MORPG), non-player character (NPC), out-of-character, party (of characters), player character, protagonist knows nothing (incl. amnesia), roleplaying game (RPG), storytelling, tabletop RPG (TTRPG), shared fantasy, theatre of the mind, and verbal and oral communication   
 
 **References**:
 
@@ -126,7 +124,7 @@ Who owns the games you play? How do games become global commodities? What rights
 
 ## MODULE 3: VALUES AND DESIGN 
 
-## 3.1 Game Modes, Genres, and Power Fantasies 
+## 3.1 Modes, Genres, and Power Fantasies 
 
 **Examples**: 
 
@@ -162,4 +160,56 @@ Who owns the games you play? How do games become global commodities? What rights
 
 **Activity**: 
 
-**Concepts**: 2D, 2.5D, 3D, ambient sound (BG), animation and rendering, atmosphere, cameras, character art and design, colours, dialogue (DX), concept art, first-person, flavour text, Foley sound (FOL), greyboxing, high-poly, isometric, lighting, lines, low-poly, models, mood, motifs, music (MX) and soundtracks, parallax scrolling, pixel art, proportions, reference material, resolution, rules text, scenes, side-scrolling, sound effects (SFX), sprites, textures, vector art, visual effects (VFX), and voices and voice-over (VO)   
+**Concepts**: 2D, 2.5D, 3D, ambient sound (BG), animation and rendering, atmosphere, barks, cameras, character art and design, colours, dialogue (DX), concept art, first-person, flavour text, Foley sound (FOL), greyboxing, high-poly, isometric, lighting, lines, low-poly, models, mood, motifs, music (MX) and soundtracks, parallax scrolling, pixel art, proportions, reference material, resolution, rules text, scenes, side-scrolling, sound effects (SFX), sprites, textures, vector art, visual effects (VFX), and voices, voice acting, and voice-over (VO)   
+
+**References**: 
+
+## 3.5 Habits and Mechanics 
+
+**Examples**: 
+
+**Activity**: 
+
+**Concepts**: aiming, character swap, collecting, combos, compulsion loops, core mechanics, coyote time, crafting, dialogue or talking, draw cards, game feel or gameplay, machine acts, operator or player acts, parying, platformer, primary mechanics, procedural rhetoric, progress the plot, respawning, run and jump, secondary mechanics, twitch, turn-taking, and verbs
+
+**References**: 
+
+## 3.6 Narrative, Pacing, and Progression
+
+**Examples**: 
+
+**Activity**: 
+
+**Concepts**: choices matter, choose your own adventure (CYOA), cutscenes, gamebooks, embedded story, emergent storytelling, enacted story, ending and number of endings, environmental storytelling or story breadcrumbs, evoked story, excuse plot, gating, interactive fiction, leveling, narrative, no plot? no problem, plot, quick time event (QTE), rolling credits, round NPCs, and visual novel 
+
+**References**: 
+
+## 3.7 Simulation and Management 
+
+**Examples**: 
+
+**Activity**: 
+
+**Concepts**: acceptable breaks from reality, all games are simulations, dating sim, farming sim, fidelity of visceral connection, interfaces and interface design (UI), inventory and resource management, methexis or group sharing, misaimed realism, mundane, realism, reality tv, simulation, suspension of disbelief, tests, training, and the uncanny 
+
+**References**: 
+
+## 3.8 Puzzles and Easter Eggs 
+
+**Examples**: 
+
+**Activity**: 
+
+**Concepts**: all games are puzzle games, detectives, dev is smarter than me, Easter eggs, guide dang it!, logic (incl. induction, deduction, and abduction), puzzles (incl. props, patterns, and chunking), secrets and hidden information, and stock puzzles 
+
+**References**: 
+
+## 3.9 Localization and Preservation 
+
+**Examples**: 
+
+**Activity**: 
+
+**Concepts**: abandonware, access, box art, collections, culturalization, emulation, fair dealing or fair use, galleries, libraries, archives, and museums (GLAM), game magazines, game manuals, games as a service, hardware, localization, maintenance, media archaeology, migration, mods, ports, remakes and remasters, software, and source code  
+
+**References**: 
