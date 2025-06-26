@@ -76,13 +76,13 @@ an investigation into ways to play and think about play
 
 ## 2.2: Agency and Affect 
 
-**Examples**: [*Overcooked*](https://www.overcooked.games/), [*Signalis*](https://rose-engine.org/signalis/), [*Teardown*](https://teardowngame.com/), 
+**Examples**: [*Overcooked*](https://www.overcooked.games/), [*Signalis*](https://rose-engine.org/signalis/), [*Teardown*](https://teardowngame.com/), and [*Inscryption* ARG](https://www.inscryption.com/)
 
 **Discussion**: how [*The Last of Us Part II*](https://www.playstation.com/en-ca/games/the-last-of-us-part-ii-remastered/) forces players to commit acts of graphic violence 
 
 **Activity**: [*Umurangi Generation*](https://www.umurangigeneration.com/) prompts us to photograph red skies and get paid by whoever for it. 
 
-**Concepts**: affect, agency, bouncing, buffs, chance, chaos, character agency, control, critical play, disgust, exploration, goosebumps, horror, jumpscares, library of agency, love letters and breakup letters, monsters everywhere, player agency, playing with feeling(s), possibility space, rage quitting, randomization, rehearsing feelings, romance options, shared pulse, system agency, survival, tilt, trauma, trigger and content warnings, violence is the only option?, visceral experience, and vulnerability
+**Concepts**: affect, agency, bouncing, buffs, chance, chaos, character agency, control, critical play, disgust, exploration, goosebumps, horror, jumpscares, library of agency, love letters and breakup letters, monsters everywhere, player agency, playing with feeling(s), possibility space, power fantasy, rage quitting, randomization, rehearsing feelings, romance options, shared pulse, system agency, survival, tilt, trauma, trigger and content warnings, violence is the only option?, visceral experience, and vulnerability
 
 **References**: 
 
@@ -94,7 +94,7 @@ an investigation into ways to play and think about play
 
 **Activity**: 
 
-**Concepts**: aesthetic appreciation (of agency), capture, charades, clip, competitive performance, dance, dexterity, documentation, fighting game, game highlights, expressive mechanics, esports, fan art, jiggle physics, joke characters, loadouts, material metagame, motion controls, movement and the significance of movement, movesets, player expression, player performance, player personality, player types, playstyle, rhythm and rhythm games, skills metagame, subjectivity, sweatlord, transforming time into a resource, and variable player goals  
+**Concepts**: aesthetic appreciation (of agency), character physics, charades, competitive performance, dance, dexterity, fighting game, game highlights, expressive mechanics, esports, fan art, joke characters, loadouts, material metagame, motion controls, movement (incl. the significance of movement), movesets, nonverbal communication, player expression, player performance, player personality, player types, playstyle, rhythm and rhythm games, screen recording or capture, skills metagame, subjectivity, sweatlord, transforming time into a resource, and variable player goals  
 
 **References**:
 
@@ -108,7 +108,7 @@ How do we pretend to believe? How does roleplay transform us? How does it experi
 
 **Activity**: let's play [*Lasers & Feelings*](http://www.onesevendesign.com/laserfeelings/) or maybe [*Honey Heist*](https://www.docdroid.net/KJzmn5k/honey-heist-by-grant-howitt-pdf)
 
-**Concepts**: actual play or live play, all games are RPGs, back stage, character, character customization, character immersion, character sheet, computer RPG (CRPG), dramaturgy, face cam, front stage, game master (GM), impressions management, in-character, live-action RPG (LARP), massively multiplayer online RPG (MMORPG), multiplayer online RPG (MORPG), non-player character (NPC), out-of-character, party (of characters), player character, protagonist knows nothing (incl. amnesia), roleplaying game (RPG), roleplaying metagame, social identity, storytelling, tabletop RPG (TTRPG), shared fantasy, theatre of the mind, and verbal and oral communication   
+**Concepts**: actual play or live play, all games are RPGs, backstage, character customization (incl. cosmetics, skins, outfits, and costumes), character immersion, character sheet, computer RPG (CRPG), dramaturgy, frontstage, game master (GM), impressions management, in-character, live-action RPG (LARP), massively multiplayer online RPG (MMORPG), multiplayer online RPG (MORPG), non-player character (NPC), out-of-character, party (of characters), player character, roleplaying game (RPG), roleplaying metagame, shared fantasy, social identity, storytelling, tabletop RPG (TTRPG), theatre of the mind, and verbal and oral communication   
 
 **References**:
 
@@ -146,13 +146,13 @@ How do metagames regulate or police play?
 
 **Activity**: listening to [*Friends at the Table*](https://friendsatthetable.net/)
 
-**Concepts**: analytics, attention economy, audience or reception theory, better as a Let's Play, Calvinball, chatting, cinema, content, content creator, content industry, gaming channel, gaming video, idle game, listening, livestream, moderators, monetization, parasocial relationships, podcasts, reading, subversion, viewers, watch time, watching, and zero-player games
+**Concepts**: analytics, attention economy, audience or reception theory, better as a Let's Play, Calvinball, chatting, cinema, content, content creator, content industry, face cam, gaming channel, gaming video, idle game, listening, livestream, moderators, monetization, parasocial relationships, podcasts, reading, subversion, viewers, watch time, watching, and zero-player games
 
 **References**: 
 
 ## MODULE 3: VALUES AND DESIGN 
 
-## 3.1: Modes, Genres, and Power Fantasies 
+## 3.1: Modes and Genres 
 
 **Examples**: [*WarioWare*](https://en.wikipedia.org/wiki/WarioWare,_Inc.:_Mega_Microgames!), [*UFO 50*](https://50games.fun/), [*Pacific Drive*](https://www.pacificdrivegame.com/press-kit)
 
@@ -190,7 +190,7 @@ How do metagames regulate or police play?
 
 ## 3.4: Vibes and Perspectives 
 
-**Examples**: [*Animal Well*](https://www.animalwell.net/), [*Chicory* OST](https://radicaldreamland.bandcamp.com/album/chicory-a-colorful-tale-original-soundtrack), [*Cuphead*](https://www.mobiusdigitalgames.com/outer-wilds.html), [*Inscryption*](https://www.inscryption.com/), [*Nier: Automata*](https://en.wikipedia.org/wiki/Nier:_Automata)
+**Examples**: [*Animal Well*](https://www.animalwell.net/), [*Chicory* OST](https://radicaldreamland.bandcamp.com/album/chicory-a-colorful-tale-original-soundtrack), [*Cuphead*](https://www.mobiusdigitalgames.com/outer-wilds.html), [*Nier: Automata*](https://en.wikipedia.org/wiki/Nier:_Automata)
 
 **Discussion**:
 
@@ -220,7 +220,7 @@ How do metagames regulate or police play?
 
 **Activity**: let's read [*Under a Star Called Sun*](https://haraiva.itch.io/under-a-star-called-sun) 
 
-**Concepts**: choices matter, choose your own adventure (CYOA), cutscenes, gamebooks, embedded story, emergent storytelling, enacted story, ending and number of endings, environmental storytelling or story breadcrumbs, evoked story, excuse plot, exposition dump, gating, interactive fiction, lampshading, leveling, ludonarrative dissonance, narrative (incl. the gameworld's narrative), no plot? no problem, pacing, plot, quick time event (QTE), rolling credits, round NPCs, story (incl. the player's story), text games, unlocking (incl. unlocking mechanics), and visual novel 
+**Concepts**: choices matter, choose your own adventure (CYOA), cutscenes, gamebooks, embedded story, emergent storytelling, enacted story, ending and number of endings, environmental storytelling or story breadcrumbs, evoked story, excuse plot, exposition dump, gating, interactive fiction, lampshading, leveling, ludonarrative dissonance, narrative (incl. the gameworld's narrative), no plot? no problem, pacing, plot, protagonist knows nothing (incl. amnesia), quick time event (QTE), rolling credits, round NPCs, story (incl. the player's story), text games, unlocking (incl. unlocking mechanics), and visual novel 
 
 **References**: 
 
