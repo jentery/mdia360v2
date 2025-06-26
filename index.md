@@ -2,7 +2,7 @@ Media Studies 360: "Games as both culture and material. Surveys approaches to pl
 
 ## MODULE 1: CULTURE 
 
-We'll begin the course by contextualizing play and attending to the activities, norms, assumptions, and communities at work in games.  
+We'll begin the course by contextualizing play and attending to the activities, norms, assumptions, and communities at work in games. I recommend following [*Critical Distance*](https://www.critical-distance.com/) as the course unfolds. 
 
 ## 1.1: Situating Play in Games 
 
@@ -14,7 +14,7 @@ How do we know we're playing? Who is free to play? How is play shaped by the gam
 
 **Activity**: a 38-person game of [*Ultimate Werewolf*](https://beziergames.com/products/ultimate-werewolf)?
 
-**Concepts**: abstracts or abstract games, affordances, agôn, alea, alternate reality games, arcade games, bleed, board games, card games, conventions, customs, fair play, the first game?, game, gameshow, goldfarming, "got played," grinding, histories of games, hobby, ilinx, labour, leisure, local game store, ludus, magic circle, mimicry, paidia, parameters, parlour games, play, the privilege of play, the right to play, the sanctity of play, sport, tabletop games, toys, unnecessary obstacle, video games, voluntary attempt, wasting time, "well played," and work
+**Concepts**: abstracts or abstract games, affordances, agôn, alea, alternate reality games, arcade games, autotelic, bleed, board games, card games, conventions, customs, fair play, the first game?, game, gameshow, goldfarming, "got played," grinding, histories of games, hobby, ilinx, labour, leisure, local game store, ludology, ludus, magic circle, mimicry, paidia, parameters, parlour games, play, the privilege of play, the right to play, the sanctity of play, sport, tabletop games, toys, unnecessary obstacle, video games, voluntary attempt, wasting time, "well played," and work
 
 **References**: [Caillois](https://www.press.uillinois.edu/books/?id=p070334), [Du Bois](https://archive.org/details/sociologicalsoul0000dubo), [Fickle](https://academic.oup.com/nyu-press-scholarship-online/book/30900), [Huizinga](https://archive.org/details/homoludensstudyo1950huiz/page/n9/mode/2up), [Jin](https://www.youtube.com/watch?v=q3cmCKjPLR8), [McPherson](https://www.museumofplay.org/app/uploads/2022/01/13-2-Article-12-Free-to-go.pdf), [Pearce](https://mitpress.mit.edu/9780262550819/playframes/), [Suits](https://broadviewpress.com/product/the-grasshopper-third-edition/#tab-description), [Salen Tekinbaş and Zimmerman](https://mitpress.mit.edu/9780262240451/rules-of-play/), and [Trammell](https://nyupress.org/9781479818433/the-privilege-of-play/)
 
@@ -28,7 +28,7 @@ What is gamification, what does it assume about people, and does it even work? A
 
 **Activity**: becoming a "Craft Master" in [*Stardew Valley*](https://www.stardewvalley.net/) 
 
-**Concepts**: achievements, achievement guides, adaptive content, addiction, badges, clicker games, cognitive load, competition, completionism, dopamine, ease-of-use, experiential learning theory, flow theory, forever game, game hours, gamblification, gamification, guided paths, immediate feedback, incentive, leaderboard, leveling up, ludic century, management, mechanics, motivation, neoliberalism, perceived behavioural control, performance graph, planned behaviour, points, positive reinforcement, productive play, reinforcement theory, rewards, screen time, self-determination theory, social comparison theory, social learning theory, social norming, and vicarious learning 
+**Concepts**: achievements, achievement guides, adaptive content, addiction, badges, clicker games, cognitive load, competition, completionism, dopamine, ease-of-use, experiential learning theory, feels or looks like labour, flow theory, forever game, game hours, gamblification, gamification, guided paths, immediate feedback, incentive, leaderboard, leveling up, ludic century, management, mechanics, motivation, neoliberalism, perceived behavioural control, performance graph, planned behaviour, points, positive reinforcement, productive play, reinforcement theory, rewards, screen time, self-determination theory, social comparison theory, social learning theory, social norming, and vicarious learning 
 
 **References**: [Dalisay et al.](https://gamestudies.org/2103/articles/dalisay_kushin_kim_forbes_david_somera), [Hamari et al.](https://ieeexplore.ieee.org/document/6758978), [Jagoda](https://press.uchicago.edu/ucp/books/book/chicago/E/bo38460558.html), [Johnson and Brock](https://intellectdiscover.com/content/journals/10.1386/jgvw_00011_1), [Krath et al.](https://www.sciencedirect.com/science/article/pii/S0747563221002867), [Schüll](https://press.princeton.edu/books/paperback/9780691160887/addiction-by-design?srsltid=AfmBOopiNUfDAVtoXKNxmmH-UTH-ZyF4gDnlK0HM4NKZzQ2A5obClvtq), [Whitson and French](https://journals.sagepub.com/doi/10.1177/1469540521993922), and [Zimmerman](https://direct.mit.edu/books/edited-volume/3066/chapter-abstract/83867/Manifesto-for-a-Ludic-Century?redirectedFrom=fulltext) 
 
@@ -46,7 +46,11 @@ Who owns the games you play? How do games become global commodities? What rights
 
 ## 1.4: Hate, Toxicity, and Harassment in Gaming Communities 
 
+What games, gaming spaces, and gaming content do you avoid? Why? Are you active in any gaming communities? If so, how do they organize to protect their members? How (if at all) do they normalize forms of abuse through routine communications? Do they police content about a particular game? Do they have a history of harassing streamers, developers, or journalists? 
+
 **Examples**: Gamergate, Nexus Mods
+
+**Discussion**:
 
 **Activity**: 
 
@@ -56,15 +60,17 @@ Who owns the games you play? How do games become global commodities? What rights
 
 ## MODULE 2: PLAY AND METAGAMING
 
+an investigation into ways to play and think about play 
+
 ## 2.1: Satisfaction, Socializing, and the "Immersion" Problem
 
 **Examples**: [*Pandemic Legacy*](https://www.zmangames.com/game/pandemic-legacy-season-1/), [*Trombone Champ*](https://www.trombonechamp.com/)
 
-**Discussion**: why call [Jackbox.tv](https://jackbox.tv/), [*Fortnite*](https://www.fortnite.com/), and [*Skull*](https://en.wikipedia.org/wiki/Skull_(card_game)) "social games"? 
+**Discussion**: what's "social" about [Jackbox.tv](https://jackbox.tv/), [*Fortnite*](https://www.fortnite.com/), [*Death Stranding*](https://www.kojimaproductions.jp/en/death-stranding-dc), and [*Skull*](https://en.wikipedia.org/wiki/Skull_(card_game)) "social games"? 
 
 **Activity**: playing [*1000xRESIST*](https://www.sunsetvisitor.studio/) for the first time 
 
-**Concepts**: attainable outcomes, avatar identification, boredom, choice, clear outcomes, confusion, consequence, desirable outcomes, digital-analog binary, entertainment, escapism, experience design (UX), game night, horizon of action, horizon of intent, immersion, metagame, moral panic, pleasure, predictability, real life, satisfaction, social comfort, social gaming, spectacle, time to completion, Trojan player scale, task communication, uncertainty, variety, and winning and losing 
+**Concepts**: attainable outcomes, boredom, choice, clear outcomes, confusion, consequence, desirable outcomes, digital-analog binary, entertainment, escapism, experience design (UX), game night, horizon of action, horizon of intent, identification, immersion, metagame, moral panic, pleasure, predictability, real life, relaxing or tuning out, satisfaction, social comfort, social gaming, spectacle, time to completion, Trojan player scale, task communication, uncertainty, variety, and winning and losing 
 
 **References**:
 
@@ -76,7 +82,7 @@ Who owns the games you play? How do games become global commodities? What rights
 
 **Activity**: [*Umurangi Generation*](https://www.umurangigeneration.com/) prompts us to photograph red skies and get paid by whoever for it. 
 
-**Concepts**: affect, agency, bouncing, buffs, chance, chaos, character agency, control, critical play, disgust, exploration, goosebumps, horror, jumpscares, library of agency, love letters and breakup letters, monsters everywhere, player agency, playing with feeling(s), possibility space, rage quitting, randomization, romance options, shared pulse, system agency, survival, tilt, violence is the only option?, and visceral experience
+**Concepts**: affect, agency, bouncing, buffs, chance, chaos, character agency, control, critical play, disgust, exploration, goosebumps, horror, jumpscares, library of agency, love letters and breakup letters, monsters everywhere, player agency, playing with feeling(s), possibility space, rage quitting, randomization, rehearsing feelings, romance options, shared pulse, system agency, survival, tilt, trauma, trigger and content warnings, violence is the only option?, visceral experience, and vulnerability
 
 **References**: 
 
@@ -84,25 +90,31 @@ Who owns the games you play? How do games become global commodities? What rights
 
 **Examples**: chess, [*Street Fighter*](https://en.wikipedia.org/wiki/Street_Fighter), [*Risk of Rain 2*](https://www.riskofrain.com/)
 
+**Discussion**:
+
 **Activity**: 
 
-**Concepts**: aesthetic appreciation (of agency), capture, charades, clip, competitive performance, dance, dexterity, documentation, fighting game, game highlights, expressive mechanics, esports, fan art, jiggle physics, joke characters, loadouts, motion controls, movement, movesets, player expression, player performance, player personality, player types, playstyle, rhythm and rhythm games, subjectivity, sweatlord, and variable player goals  
+**Concepts**: aesthetic appreciation (of agency), capture, charades, clip, competitive performance, dance, dexterity, documentation, fighting game, game highlights, expressive mechanics, esports, fan art, jiggle physics, joke characters, loadouts, material metagame, motion controls, movement and the significance of movement, movesets, player expression, player performance, player personality, player types, playstyle, rhythm and rhythm games, skills metagame, subjectivity, sweatlord, transforming time into a resource, and variable player goals  
 
 **References**:
 
 ## 2.4: Roleplay 
 
-**Examples**: [*Baldur's Gate 3*](https://baldursgate3.game/), [*Citizen Sleeper*](https://www.fellowtraveller.games/citizen-sleeper)
+How do we pretend to believe? How does roleplay transform us? How does it experiment with new social relations and forms of communication? How do RPGs become texts that produce other texts? 
+
+**Examples**: [*Baldur's Gate 3*](https://baldursgate3.game/), [*Citizen Sleeper*](https://www.fellowtraveller.games/citizen-sleeper), and [*Blades in the Dark*](https://bladesinthedark.com/)
 
 **Discussion**: when are you your player character? 
 
-**Activity**: let's play [*Lasers & Feelings*](http://www.onesevendesign.com/laserfeelings/)
+**Activity**: let's play [*Lasers & Feelings*](http://www.onesevendesign.com/laserfeelings/) or maybe [*Honey Heist*](https://www.docdroid.net/KJzmn5k/honey-heist-by-grant-howitt-pdf)
 
-**Concepts**: actual play or live play, all games are RPGs, back stage, character, character customization, character immersion, character sheet, computer RPG (CRPG), dramaturgy, face cam, front stage, game master (GM), impressions management, in-character, live-action RPG (LARP), massively multiplayer online RPG (MMORPG), multiplayer online RPG (MORPG), non-player character (NPC), out-of-character, party (of characters), player character, protagonist knows nothing (incl. amnesia), roleplaying game (RPG), social identity, storytelling, tabletop RPG (TTRPG), shared fantasy, theatre of the mind, and verbal and oral communication   
+**Concepts**: actual play or live play, all games are RPGs, back stage, character, character customization, character immersion, character sheet, computer RPG (CRPG), dramaturgy, face cam, front stage, game master (GM), impressions management, in-character, live-action RPG (LARP), massively multiplayer online RPG (MMORPG), multiplayer online RPG (MORPG), non-player character (NPC), out-of-character, party (of characters), player character, protagonist knows nothing (incl. amnesia), roleplaying game (RPG), roleplaying metagame, social identity, storytelling, tabletop RPG (TTRPG), shared fantasy, theatre of the mind, and verbal and oral communication   
 
 **References**:
 
 ## 2.5: Theorycrafting and Cheating 
+
+How do metagames regulate or police play? 
 
 **Examples**: [*Magic: The Gathering*](https://magic.wizards.com/en)
 
@@ -110,7 +122,7 @@ Who owns the games you play? How do games become global commodities? What rights
 
 **Activity**: 
 
-**Concepts**: AI breakers, better play, camping, cheesing, common pool, critical path, current meta, deckbuilding, elitism, game state, gamebusting, griefing, forums, kingmaking, min-maxing, optimization, paratexts, player guides or strategy guides, politicking, "right" way to play, rules, rules lawyer, save-scumming, state of play, statistical thinking, strategy, system mapping, and "wrong" way to play
+**Concepts**: AI breakers, better play, camping, cheesing, common pool, critical path, current meta, deckbuilding, elitism, game state, gamebusting, griefing, forums, kingmaking, min-maxing, optimization metagame, paratexts, player guides or strategy guides, politicking, "right" way to play, rules, rules lawyer, save-scumming, state of play, statistical thinking, strategy, strategy metagame, system mapping, and "wrong" way to play
 
 **References**: 
 
@@ -122,13 +134,15 @@ Who owns the games you play? How do games become global commodities? What rights
 
 **Activity**: let's watch a [Frame Fatales](https://framefatales.com/) speedrun 
 
-**Concepts**: modding, emergent gameplay, exploits, fangames, fanon, headcanon, house rules, kitchen table, kludge or workaround, pacifist run, party game, politics of joy (as resistance), self-imposed challenge, speedrun, queer play, and tactics 
+**Concepts**: commentary, modding, emergent gameplay, exploits, fangames, fanon, headcanon, house rules, kitchen table, kludge or workaround, pacifist run, party game, politics of joy (as resistance), self-imposed challenge, social metagame, speedrun, structural metagame, queer play, and tactics 
 
 **Research**: 
   
 ## 2.7: Content Creation and Backseat Gaming
 
 **Examples**: [*League of Legends*](https://www.leagueoflegends.com/en-us/), [*Immortality*](https://en.wikipedia.org/wiki/Immortality_(video_game))
+
+**Discussion**:
 
 **Activity**: listening to [*Friends at the Table*](https://friendsatthetable.net/)
 
@@ -140,13 +154,13 @@ Who owns the games you play? How do games become global commodities? What rights
 
 ## 3.1: Modes, Genres, and Power Fantasies 
 
-**Examples**: [*UFO 50*](https://50games.fun/), [*Pacific Drive*](https://www.pacificdrivegame.com/press-kit)
+**Examples**: [*WarioWare*](https://en.wikipedia.org/wiki/WarioWare,_Inc.:_Mega_Microgames!), [*UFO 50*](https://50games.fun/), [*Pacific Drive*](https://www.pacificdrivegame.com/press-kit)
 
 **Discussion**: what's in a box of [*Cascadia*](https://www.alderac.com/cascadia/)? 
 
 **Activity**: [*Fledgling Manor*](https://in-secret-places.itch.io/fledgling-manor)
 
-**Concepts**: achieving a context, activity theory, adventure game, assets (files, repetition, recognition, location, atmosphere, adaptability, fluidity, proportion, resolution, automation, and padding), asymmetric gameplay, campaign mode, challenges, co-op play, collect-a-thon, cozy game, dungeon-crawler, Eurogames, expectations, fake difficulty, fake longevity, feature list, genre (incl. epistemic, game, and narrative genres), genre knowledge, genre set, hide-and-go-seek, intended audience, local play, Metroidvania, mini-games, multiplayer, offline play, online play, power fantasy, Roguelike, scavenger hunt, side quests (incl. fetch quests), single-player, social deduction, Soulslike, story mode, tennis, and uptake
+**Concepts**: achieving a context, activity theory and activity systems, adventure game, assets (files, repetition, recognition, location, atmosphere, adaptability, fluidity, proportion, resolution, automation, and padding), asymmetric gameplay, campaign mode, challenges, co-op play, collect-a-thon, cozy game, dungeon-crawler, Eurogames, expectations, fake difficulty, fake longevity, feature list, genre (incl. epistemic, game, and narrative genres), genre knowledge, genre set, herding and stealth missions, hide-and-go-seek, intended audience, local play, Metroidvania, mini-games, multiplayer, offline play, online play, power fantasy, prompts, Roguelike, scavenger hunt, side quests (incl. fetch quests), single-player, social deduction, Soulslike, story mode, tennis, and uptake
 
 **References**:
 
@@ -154,9 +168,11 @@ Who owns the games you play? How do games become global commodities? What rights
 
 **Examples**: [*Forza Motorsport*](https://forza.net/motorsport), [*Outer Wilds*](https://www.mobiusdigitalgames.com/outer-wilds.html)
 
+**Discussion**:
+
 **Activity**: 
 
-**Concepts**: accessibility, accessibility guidelines, adaptive controllers and adaptive gaming, assist mode, balance, cognitive accessibility, colour blind mode, cruel teacher, death, difficulty, feedback, game flavour, haptics, hearing accessibility, intrapersonal communication, misère games, masocore, motor accessibility, options, pedagogy, player-agnostic design, player-antagonistic design, player-centric design, quality of life, replayability, save features, settings, speech accessibility, text size, tutorialization (foreseeable, achievable, desirable, and relatable actions), vision accessibility, what are the rules?, where are the buttons?, and yellow paint
+**Concepts**: accessibility, accessibility guidelines, adaptive controllers and adaptive gaming, assist mode, balance, cognitive accessibility, colour blind mode, cruel teacher, death, difficulty, feedback, game flavour, game over screen, haptics, hearing accessibility, intrapersonal communication, misère games, masocore, motor accessibility, one-button games, options, pedagogy (implicit and explicit), player-agnostic design, player-antagonistic design, player-centric design, quality of life, replayability, save features, settings, speech accessibility, text size, tutorialization (foreseeable, achievable, desirable, and relatable actions), vision accessibility, what are the rules?, where are the buttons?, and yellow paint
 
 **References**: 
 
@@ -168,29 +184,31 @@ Who owns the games you play? How do games become global commodities? What rights
 
 **Activity**: using D&D's [*Dungeon Master's Guide*](https://en.wikipedia.org/wiki/Dungeon_Master%27s_Guide) to prototype a world (and identify what's off or missing)
 
-**Concepts**: actionable space, animals and plants, boundaries, can I interact with that?, climate and biomes, clipping, communication and information, culture and identities, diegetic, economy and industry, engine, extra-diegetic, gauges, handcrafted content, history, horizon, I can't reach it, ideology, lampshading, language (incl. conlangs), laws and society, level design, lore, maps and geography, magic and technology, nature and environment, non-diegetic, objects and collectibles, open world, painting the medium, "people, places, and things," phase space, physics and science, population, previews, procedurally- or AI-generated content, rails, religions and spiritual traditions, sandbox, setting, speculative fiction, staging, and worldview 
+**Concepts**: actionable space, boundaries, can I interact with that?, can I collect that?, canon, clipping, cursed problems, diegetic, elements of the world (people, places, things, animals, plants, climate, biomes, communication networks, magic, technology, cultures, factions, identities, economies, industries, laws and societies, religions and spiritual traditions, languages including conlangs, and the history of the world and its population), engine, extra-diegetic, gauges, handcrafted content, horizon, I can't reach it, ideology, level design, lore, maps, non-diegetic, open world, painting the medium, phase space, physics, previews, procedurally- or AI-generated content, rails, sandbox, setting, staging, and worldview 
 
 **References**: 
 
 ## 3.4: Vibes and Perspectives 
 
-**Examples**: [*Animal Well*](https://www.animalwell.net/), [*Chicory* OST](https://radicaldreamland.bandcamp.com/album/chicory-a-colorful-tale-original-soundtrack), [*Cuphead*](https://www.mobiusdigitalgames.com/outer-wilds.html), [*Inscryption*](https://www.inscryption.com/)
+**Examples**: [*Animal Well*](https://www.animalwell.net/), [*Chicory* OST](https://radicaldreamland.bandcamp.com/album/chicory-a-colorful-tale-original-soundtrack), [*Cuphead*](https://www.mobiusdigitalgames.com/outer-wilds.html), [*Inscryption*](https://www.inscryption.com/), [*Nier: Automata*](https://en.wikipedia.org/wiki/Nier:_Automata)
+
+**Discussion**:
 
 **Activity**: 
 
-**Concepts**: 2D, 2.5D, 3D, ambient sound and soundscapes (BG), animation and rendering, atmosphere, barks, cameras, character art and design, colours, concept art, dialogue (DX), dimensions, first-person, flavour text, Foley sound (FOL), graphics, greyboxing, high-poly, isometric, lighting, lines, low-poly, models, mood, motifs, music (MX) and soundtracks, parallax scrolling, pixel art, poetics, proportions, reference material, resolution, rules text, scenes, side-scrolling, silent protagonist, sound effects (SFX), sprites, textures, vector art, visual effects (VFX), and voices, voice acting, and voice-over (VO)   
+**Concepts**: 2D, 2.5D, 3D, ambient sound and soundscapes (BG), animation and rendering, atmosphere, barks, cameras, character art and design, colours, concept art, dialogue (DX), dimensions, environments (incl. hostile and friendly ones), first-person camera, flavour text, Foley sound (FOL), graphics, greyboxing, high-poly, isometric projection, lighting, lines, low-poly, models, mood, motifs, music (MX) and soundtracks, parallax scrolling, pixel art, poetics, proportions, reference material, resolution, rules text, scenes, second-person camera, side-scrolling, silent protagonist, sound effects (SFX), sprites, textures, third-person camera, vector art, verticality, visual effects (VFX), and voices, voice acting, and voice-over (VO)   
 
 **References**: 
 
 ## 3.5: Habits and Mechanics 
 
-**Examples**: [*N++*](https://nplusplus.org/), [*Portal 2*](https://en.wikipedia.org/wiki/Portal_2), 
+**Examples**: [*N++*](https://nplusplus.org/), [*Leap Year*](https://managore.itch.io/leap-year), [*Portal 2*](https://en.wikipedia.org/wiki/Portal_2), ["Keita's Quick Ideas"](http://www.iduckingloveyou.net/www.glitchthegame.com/oddsandends/qis/index.html)
 
 **Discussion**: ever tried [*Crokinole*](https://en.wikipedia.org/wiki/Crokinole)? 
 
 **Activity**: flipping some [*Arctic Eggs*](https://the-water-museum.itch.io/arctic-eggs)
 
-**Concepts**: aiming, character swap, collecting, combos, compulsion loops, core mechanics, coyote time, crafting, dialogue or talking, draw cards, game feel or gameplay, machine acts, operator or player acts, parying, platformer, primary mechanics, procedural rhetoric, progress the plot, respawning, run and jump, secondary mechanics, twitch, turn-taking, and verbs (functional and expressive)
+**Concepts**: aiming, bundled mechanics, character swap, collecting, combos, compulsion loops or gameplay loops, core mechanics, coyote time, crafting, dialogue or talking, draw cards, game feel or gameplay, machine acts, operator or player acts, parying, platformer, primary mechanics, procedural rhetoric, progress the plot, respawning, run and jump, secondary mechanics, twitch, turn-taking, and verbs (functional and expressive)
 
 **References**: 
 
@@ -202,7 +220,7 @@ Who owns the games you play? How do games become global commodities? What rights
 
 **Activity**: let's read [*Under a Star Called Sun*](https://haraiva.itch.io/under-a-star-called-sun) 
 
-**Concepts**: choices matter, choose your own adventure (CYOA), cutscenes, gamebooks, embedded story, emergent storytelling, enacted story, ending and number of endings, environmental storytelling or story breadcrumbs, evoked story, excuse plot, exposition dump, gating, interactive fiction, leveling, ludonarrative dissonance, narrative, no plot? no problem, pacing, plot, quick time event (QTE), rolling credits, round NPCs, story, and visual novel 
+**Concepts**: choices matter, choose your own adventure (CYOA), cutscenes, gamebooks, embedded story, emergent storytelling, enacted story, ending and number of endings, environmental storytelling or story breadcrumbs, evoked story, excuse plot, exposition dump, gating, interactive fiction, lampshading, leveling, ludonarrative dissonance, narrative (incl. the gameworld's narrative), no plot? no problem, pacing, plot, quick time event (QTE), rolling credits, round NPCs, story (incl. the player's story), text games, unlocking (incl. unlocking mechanics), and visual novel 
 
 **References**: 
 
@@ -212,9 +230,9 @@ Who owns the games you play? How do games become global commodities? What rights
 
 **Discussion**: a trip on [*Microsoft Flight Simulator*](https://www.flightsimulator.com/) will probably take you a minute
 
-**Activity**: fielding calls to the [*Home Safety Hotline*](https://nightsignalentertainment.itch.io/home-safety-hotline)
+**Activity**: noticing something's distinctly wrong as you field calls to the [*Home Safety Hotline*](https://nightsignalentertainment.itch.io/home-safety-hotline)
 
-**Concepts**: acceptable breaks from reality, all games are simulations, dating sim, experiments and conjecture, farming sim, fidelity of visceral connection, immersive sim, interfaces and user interface design (UI), inventory and resource management, menu, methexis or group sharing, misaimed realism, mundane, realism, reality tv, simulation, suspension of disbelief, tests, training, uncanny, walking sim, and wargames and military simulations
+**Concepts**: acceptable breaks from reality, all games are simulations, dating sim, entertaining the absurd (comedy), farming sim, fidelity of visceral connection, immersive sim, interfaces and user interface design (UI), inventory and resource management, menu, methexis or group sharing, misaimed realism, photorealism, reality tv, reveling in the mundane (social realism), simulation, suspension of disbelief, testing the narrative (speculative fiction), testing the system (conjectural experiment), training the player (discipline), uncanny, walking sim, and wargames and military simulations
 
 **References**: 
 
@@ -222,9 +240,11 @@ Who owns the games you play? How do games become global commodities? What rights
 
 **Examples**: [*Tetris*](https://play.tetris.com/), [*Lorelai and the Laser Eyes*](https://simogo.com/work/loreleiandthelasereyes/), [*Blue Prince*](https://www.blueprincegame.com/)
 
+**Discussion**:
+
 **Activity**: 
 
-**Concepts**: all games are puzzle games, brute forcing it, detectives, dev is smarter than me, Easter eggs, encoding and decoding, guide dang it!, logic (incl. induction, deduction, and abduction), puzzles (incl. props, patterns, and chunking), secrets and hidden information, and stock puzzles 
+**Concepts**: all games are puzzle games, brute forcing it, detectives, dev is smarter than me, Easter eggs, encoding and decoding, guide dang it!, logic puzzles (incl. induction, deduction, and abduction), mechanical puzzles, puzzle design (incl. props, patterns, and chunking), secrets and hidden information, stock puzzles, and word puzzles
 
 **References**: 
 
