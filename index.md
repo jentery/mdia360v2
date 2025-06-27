@@ -10,7 +10,7 @@ How do we know when we're playing? Who is free to play? How is play shaped by so
 
 **Examples**: [*Pokémon Go*](https://pokemongo.com/), [*Squid Game*](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3990316), [*Wordle*](https://arxiv.org/abs/2309.02110), and [*World of Warcraft*](https://www.youtube.com/watch?v=q3cmCKjPLR8) 
 
-**Discussion**: are you playing with me? [real-life relationship or roleplay](https://www.forbes.com/sites/laurenorsini/2017/11/20/playing-fog-of-love-made-me-and-my-husband-break-up/) in *Fog of Love*, a cooperative-competitive romantic comedy relationship sim  
+**Discussion**: are you playing? [real-life relationship or roleplay](https://www.forbes.com/sites/laurenorsini/2017/11/20/playing-fog-of-love-made-me-and-my-husband-break-up/) in *Fog of Love*, a cooperative-competitive romantic comedy relationship sim  
 
 **Activity**: let's try a 39-person game of [*Ultimate Werewolf*](https://beziergames.com/products/ultimate-werewolf)?
 
@@ -18,9 +18,9 @@ How do we know when we're playing? Who is free to play? How is play shaped by so
 
 **References**: [Caillois](https://www.press.uillinois.edu/books/?id=p070334), [Dilger](https://arxiv.org/abs/2309.02110), [Du Bois](https://archive.org/details/sociologicalsoul0000dubo), [Fickle](https://academic.oup.com/nyu-press-scholarship-online/book/30900), [Geerling et al.](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3990316), [Huizinga](https://archive.org/details/homoludensstudyo1950huiz/page/n9/mode/2up), [Jin](https://www.youtube.com/watch?v=q3cmCKjPLR8), [Layland et al.](https://www.tandfonline.com/doi/full/10.1080/01490400.2018.1426064#abstract), [McPherson](https://www.museumofplay.org/app/uploads/2022/01/13-2-Article-12-Free-to-go.pdf), [Nakamura](https://lisanakamura.net/wp-content/uploads/2012/03/donthatetheplayer.pdf), [Pearce](https://mitpress.mit.edu/9780262550819/playframes/), [Suits](https://broadviewpress.com/product/the-grasshopper-third-edition/#tab-description), [Salen Tekinbaş and Zimmerman](https://mitpress.mit.edu/9780262240451/rules-of-play/), and [Trammell](https://nyupress.org/9781479818433/the-privilege-of-play/)
 
-## 1.2: Gamification: Motivation, Behaviour, and Learning 
+## 1.2: Keep Playing: From Motivation to Exploitation
 
-What is gamification, what does it assume about people, and does it even work? Are games and gamification the same thing? How do companies instrumentalize game design to encourage productivity, track learning, and normalize behaviours? To motivate people to play and keep playing?
+Gaming and gamification are everywhere today. How do companies use elements of game design to encourage competition and productivity? To track everyday activities and influence behaviours? To keep people playing? Is it all just a gimmick? When does it work, and when does it become exploitative? 
 
 **Examples**: [*Duolingo*](https://www.duolingo.com/), [*Minecraft*](https://www.minecraft.net/en-us), dating apps, and wearable tech and fitness monitors
 
@@ -28,9 +28,9 @@ What is gamification, what does it assume about people, and does it even work? A
 
 **Activity**: becoming a "Craft Master" in [*Stardew Valley*](https://www.stardewvalley.net/) 
 
-**Concepts**: achievements, achievement guides, adaptive content, addiction, badges, clicker games, cognitive load, competition, completionism, dopamine, ease-of-use, experiential learning theory, feels or looks like labour, flow theory, forever game, game hours, gamblification, gamification, guided paths, immediate feedback, incentive, investment, leaderboard, leveling up, ludic century, management, mechanics, motivation, new game+ (NG+), neoliberalism, perceived behavioural control, performance graph, planned behaviour, points, positive reinforcement, productive play, reinforcement theory, rewards, risk, screen time, self-determination theory, social comparison theory, social learning theory, social norming, and vicarious learning 
+**Concepts**: achievements, achievement guides, adaptive content, addiction, badges, clicker games, cognitive load, competition, completionism, daily fantasy sports, dopamine, ease-of-use, experiential learning theory, exploitationware, flow theory, forever game, gacha and gachapon mechanics, game hours, gamblification, gamification, guided paths, immediate feedback, incentive, investment, leaderboard, leveling up, loot boxes, ludic century, management, mechanics, motivation, new game+ (NG+), neoliberalism, perceived behavioural control, performance graph, planned behaviour, points, positive reinforcement, productive play, reinforcement theory, rewards, risk, screen time, self-determination theory, social comparison theory, social learning theory, social norming, third-person effects, and vicarious learning 
 
-**References**: [Dalisay et al.](https://gamestudies.org/2103/articles/dalisay_kushin_kim_forbes_david_somera), [Hamari et al.](https://ieeexplore.ieee.org/document/6758978), [Jagoda](https://press.uchicago.edu/ucp/books/book/chicago/E/bo38460558.html), [Johnson and Brock](https://intellectdiscover.com/content/journals/10.1386/jgvw_00011_1), [Krath et al.](https://www.sciencedirect.com/science/article/pii/S0747563221002867), [Schüll](https://press.princeton.edu/books/paperback/9780691160887/addiction-by-design?srsltid=AfmBOopiNUfDAVtoXKNxmmH-UTH-ZyF4gDnlK0HM4NKZzQ2A5obClvtq), [Whitson and French](https://journals.sagepub.com/doi/10.1177/1469540521993922), and [Zimmerman](https://direct.mit.edu/books/edited-volume/3066/chapter-abstract/83867/Manifesto-for-a-Ludic-Century?redirectedFrom=fulltext) 
+**References**: [Bogost](https://direct.mit.edu/books/edited-volume/3066/The-Gameful-WorldApproaches-Issues-Applications), [Dalisay et al.](https://gamestudies.org/2103/articles/dalisay_kushin_kim_forbes_david_somera), [Hamari et al.](https://ieeexplore.ieee.org/document/6758978), [Jagoda](https://press.uchicago.edu/ucp/books/book/chicago/E/bo38460558.html), [Johnson and Brock](https://intellectdiscover.com/content/journals/10.1386/jgvw_00011_1), [Krath et al.](https://www.sciencedirect.com/science/article/pii/S0747563221002867), [Macey and Hamari](https://journals.sagepub.com/doi/10.1177/14614448221083903), [Schüll](https://press.princeton.edu/books/paperback/9780691160887/addiction-by-design?srsltid=AfmBOopiNUfDAVtoXKNxmmH-UTH-ZyF4gDnlK0HM4NKZzQ2A5obClvtq), [Whitson and French](https://journals.sagepub.com/doi/10.1177/1469540521993922), and [Zimmerman](https://direct.mit.edu/books/edited-volume/3066/chapter-abstract/83867/Manifesto-for-a-Ludic-Century?redirectedFrom=fulltext) 
 
 ## 1.3: Ownership, Rights, and EDI in Game Industries 
 
@@ -54,11 +54,11 @@ What games, gaming spaces, and gaming content do you avoid? Why? Are you active 
 
 **Activity**: to what degree can game design help reduce and even prevent toxicity? See strategies for [cooperative and interdependent play](https://polarisgamedesign.com/2022/kind-games-designing-for-prosocial-multiplayer/). 
 
-**Concepts**: accountability, anonymity, bad manners (BM), bots, boys' toys, casual gamer, chat, cisheteropatriarchy, code of conduct, community intervention, doxing, extremism, fandom, git gud, griefing, harassment (direct and networked), hardcore gamer, harmful conduct, health (physical and mental), homophobia, identity, intersectional feminism, kicking, player two, power dynamics, racism (incl. anti-Asian, anti-Black, anti-Indigenous, and anti-Latinx racism), reactionary gamer, responsibility, safeguards, settler colonialism, sexism and misogny, swatting, targeting, third-person effects, toxicity, toxic geek masculinity, transphobia, trolling, violence, whiteness, xenophobia, and zero-sum game 
+**Concepts**: accountability, anonymity, bad manners (BM), bots, boys' toys, casual gamer, chat, cisheteropatriarchy, code of conduct, community intervention, doxing, extremism, fandom, git gud, griefing, harassment (direct and networked), hardcore gamer, harmful conduct, health (physical and mental), homophobia, identity, intersectional feminism, kicking, player two, power dynamics, racism (incl. anti-Asian, anti-Black, anti-Indigenous, and anti-Latinx racism), reactionary gamer, responsibility, safeguards, settler colonialism, sexism and misogny, swatting, targeting, toxicity, toxic geek masculinity, transphobia, trolling, violence, whiteness, xenophobia, and zero-sum game 
 
 **References**: 
 
-## MODULE 2: PLAY AND METAGAMING
+## MODULE 2: PLAY AND METAGAMING (SEVEN SESSIONS)
 
 an investigation into ways to play and think about play 
 
@@ -150,7 +150,7 @@ How do metagames regulate or police play?
 
 **References**: 
 
-## MODULE 3: VALUES AND DESIGN 
+## MODULE 3: VALUES AND DESIGN (NINE SESSIONS)
 
 ## 3.1: Modes and Genres 
 
