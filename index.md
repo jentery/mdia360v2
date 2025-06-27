@@ -1,22 +1,22 @@
-Media Studies 360: "Games as both culture and material. Surveys approaches to play and games around the world, from board and tabletop games to video games, alternate reality games and even sports."
+Media Studies 360 at UVic: "Games as both culture and material. Surveys approaches to play and games around the world, from board and tabletop games to video games, alternate reality games and even sports."
 
-## MODULE 1: CULTURE 
+## MODULE 1: CULTURE (FOUR SESSIONS)
 
-We'll begin the course by contextualizing play and attending to the activities, norms, assumptions, and communities at work in games. I recommend following [*Critical Distance*](https://www.critical-distance.com/) as the course unfolds. 
+We'll begin the course by contextualizing play and attending to the activities, communities, norms, and assumptions at work in games, including video and tabletop games as well as related phenomena such as gamification. I recommend following [*Critical Distance*](https://www.critical-distance.com/) as the course unfolds. Chris Lawrence does an impeccable job curating recent work in Game Studies. 
 
 ## 1.1: Situating Play in Games 
 
-How do we know we're playing? Who is free to play? How is play shaped by the game you're playing and where you play it? By socialization? By cultural assumptions about what *counts* as work or leisure?   
+How do we know when we're playing? Who is free to play? How is play shaped by socialization? By the boundaries of games and where we play them? By cultural assumptions and norms about what *counts* as work or leisure?   
 
-**Examples**: [*Pokémon GO*](https://pokemongo.com/), [*Squid Game*](https://en.wikipedia.org/wiki/Squid_Game), [*Wordle*](https://www.nytimes.com/games/wordle/index.html), and [*World of Warcraft*](https://worldofwarcraft.blizzard.com/en-us/) 
+**Examples**: [*Pokémon Go*](https://pokemongo.com/), [*Squid Game*](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3990316), [*Wordle*](https://arxiv.org/abs/2309.02110), and [*World of Warcraft*](https://www.youtube.com/watch?v=q3cmCKjPLR8) 
 
-**Discussion**: are you playing? [*Fog of Love*](https://floodgate.games/products/fog-of-love) sparked some relationship troubles. 
+**Discussion**: are you playing with me? [real-life relationship or roleplay](https://www.forbes.com/sites/laurenorsini/2017/11/20/playing-fog-of-love-made-me-and-my-husband-break-up/) in *Fog of Love*, a cooperative-competitive romantic comedy relationship sim  
 
-**Activity**: a 38-person game of [*Ultimate Werewolf*](https://beziergames.com/products/ultimate-werewolf)?
+**Activity**: let's try a 39-person game of [*Ultimate Werewolf*](https://beziergames.com/products/ultimate-werewolf)?
 
-**Concepts**: abstracts or abstract games, affordances, agôn, alea, alternate reality games, arcade games, autotelic activity, bleed, board games, card games, computer games, conventions, customs, fair play, the first game ever made?, game, gameshow, goldfarming, "got played," grinding, histories of games, hobby, ilinx, labour, leisure, local game store, ludology, ludus, magic circle, mimicry, paidia, parameters, parlour games, play, the privilege of play, the right to play, the sanctity of play, sport, tabletop games, toys, unnecessary obstacle, video games, voluntary attempt, wasting time, "well-played (WP)," and work
+**Concepts**: abstracts or abstract games, affordances, agôn, alea, alternate reality games, arcade games, autotelic activity, bleed, board games, card games, computer games, conventions, customs, fair play, the first game ever made?, game, gameshow, goldfarming, "got played," grinding, histories of games, hobby, ilinx, labour, leisure, local game store (LGS), ludology, ludus, magic circle, mimicry, paidia, parameters, parlour games, play, the privilege of play, the right to play, the sanctity of play, sport, tabletop games, toys, unnecessary obstacle, video games, voluntary attempt, wasting time, "well-played (WP)," and work
 
-**References**: [Caillois](https://www.press.uillinois.edu/books/?id=p070334), [Du Bois](https://archive.org/details/sociologicalsoul0000dubo), [Fickle](https://academic.oup.com/nyu-press-scholarship-online/book/30900), [Huizinga](https://archive.org/details/homoludensstudyo1950huiz/page/n9/mode/2up), [Jin](https://www.youtube.com/watch?v=q3cmCKjPLR8), [McPherson](https://www.museumofplay.org/app/uploads/2022/01/13-2-Article-12-Free-to-go.pdf), [Pearce](https://mitpress.mit.edu/9780262550819/playframes/), [Suits](https://broadviewpress.com/product/the-grasshopper-third-edition/#tab-description), [Salen Tekinbaş and Zimmerman](https://mitpress.mit.edu/9780262240451/rules-of-play/), and [Trammell](https://nyupress.org/9781479818433/the-privilege-of-play/)
+**References**: [Caillois](https://www.press.uillinois.edu/books/?id=p070334), [Dilger](https://arxiv.org/abs/2309.02110), [Du Bois](https://archive.org/details/sociologicalsoul0000dubo), [Fickle](https://academic.oup.com/nyu-press-scholarship-online/book/30900), [Geerling et al.](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3990316), [Huizinga](https://archive.org/details/homoludensstudyo1950huiz/page/n9/mode/2up), [Jin](https://www.youtube.com/watch?v=q3cmCKjPLR8), [Layland et al.](https://www.tandfonline.com/doi/full/10.1080/01490400.2018.1426064#abstract), [McPherson](https://www.museumofplay.org/app/uploads/2022/01/13-2-Article-12-Free-to-go.pdf), [Nakamura](https://lisanakamura.net/wp-content/uploads/2012/03/donthatetheplayer.pdf), [Pearce](https://mitpress.mit.edu/9780262550819/playframes/), [Suits](https://broadviewpress.com/product/the-grasshopper-third-edition/#tab-description), [Salen Tekinbaş and Zimmerman](https://mitpress.mit.edu/9780262240451/rules-of-play/), and [Trammell](https://nyupress.org/9781479818433/the-privilege-of-play/)
 
 ## 1.2: Gamification: Motivation, Behaviour, and Learning 
 
@@ -52,7 +52,7 @@ What games, gaming spaces, and gaming content do you avoid? Why? Are you active 
 
 **Discussion**:
 
-**Activity**: 
+**Activity**: to what degree can game design help reduce and even prevent toxicity? See strategies for [cooperative and interdependent play](https://polarisgamedesign.com/2022/kind-games-designing-for-prosocial-multiplayer/). 
 
 **Concepts**: accountability, anonymity, bad manners (BM), bots, boys' toys, casual gamer, chat, cisheteropatriarchy, code of conduct, community intervention, doxing, extremism, fandom, git gud, griefing, harassment (direct and networked), hardcore gamer, harmful conduct, health (physical and mental), homophobia, identity, intersectional feminism, kicking, player two, power dynamics, racism (incl. anti-Asian, anti-Black, anti-Indigenous, and anti-Latinx racism), reactionary gamer, responsibility, safeguards, settler colonialism, sexism and misogny, swatting, targeting, third-person effects, toxicity, toxic geek masculinity, transphobia, trolling, violence, whiteness, xenophobia, and zero-sum game 
 
@@ -108,7 +108,7 @@ How do we pretend to believe? How does roleplay transform us? How does it experi
 
 **Activity**: let's play [*Lasers & Feelings*](http://www.onesevendesign.com/laserfeelings/) or maybe [*Honey Heist*](https://www.docdroid.net/KJzmn5k/honey-heist-by-grant-howitt-pdf)
 
-**Concepts**: actual play or live play, alignment, all games are RPGs, backstage, character customization (incl. cosmetics, skins, outfits, and costumes), character immersion, character sheet, computer RPG (CRPG), dramaturgy, frontstage, game master (GM), impressions management, in-character, live-action RPG (LARP), massively multiplayer online RPG (MMORPG), multiplayer online RPG (MORPG), non-player character or non-playable character (NPC, incl. bots and AI), ontological theatre, out-of-character, party (of characters), player character or playable character, quest-giver, roleplaying (RP), roleplaying game (RPG), roleplaying metagame, shared fantasy, skill-check, social identity, storytelling, tabletop RPG (TTRPG), telegraphing, theatre of the mind, and verbal and oral communication   
+**Concepts**: actual play or live play, alignment, all games are RPGs, backstage, character customization (incl. cosmetics, skins, outfits, and costumes), character immersion, character sheet, cipher, computer RPG (CRPG), dramaturgy, frontstage, game master (GM), impressions management, in-character, live-action RPG (LARP), massively multiplayer online RPG (MMORPG), multiplayer online RPG (MORPG), non-player character or non-playable character (NPC, incl. bots and AI), ontological theatre, out-of-character, party (of characters), player character or playable character, quest-giver, roleplaying (RP), roleplaying game (RPG), roleplaying metagame, shared fantasy, skill-check, social identity, storytelling, tabletop RPG (TTRPG), telegraphing, theatre of the mind, and verbal and oral communication   
 
 **References**:
 
@@ -172,7 +172,7 @@ How do metagames regulate or police play?
 
 **Activity**: fly-on-the-wall observation of a game (including the Elito method)
 
-**Concepts**: accessibility, accessibility guidelines, adaptive controllers and adaptive gaming, assist mode, balance, cognitive accessibility, colour blind mode, cruel teacher, death and permadeath, difficulty, feedback, five hat racks, game flavour, game over screen, haptics, hearing accessibility, intrapersonal communication (incl. protagonist self-talk), language independence, misère games, masocore, motor accessibility, one-button games, options, pedagogy (implicit and explicit), player-agnostic design, player-antagonistic design, player-centric design, quality of life, replayability, save features, settings, speech accessibility, text size and legibility, tutorialization (foreseeable, achievable, desirable, and relatable actions), vision accessibility, what are the rules?, where are the buttons?, and yellow paint
+**Concepts**: accessibility, accessibility guidelines, adaptive controllers and adaptive gaming, assist mode, balance, cognitive accessibility, colour blind mode, cruel teacher, death and permadeath, difficulty, feedback, five hat racks, game flavour, [game over screen](https://deathgenerator.com/#gallery), haptics, hearing accessibility, intrapersonal communication (incl. protagonist self-talk), language independence, misère games, masocore, motor accessibility, one-button games, options, pedagogy (implicit and explicit), player-agnostic design, player-antagonistic design, player-centric design, quality of life, replayability, save features, settings, speech accessibility, text size and legibility, tutorialization (foreseeable, achievable, desirable, and relatable actions), vision accessibility, what are the rules?, where are the buttons?, and yellow paint
 
 **References**: 
 
