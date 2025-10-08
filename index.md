@@ -82,7 +82,7 @@ an investigation into ways to play and think about play
 
 **Activity**: [*Umurangi Generation*](https://www.umurangigeneration.com/) prompts us to photograph red skies, get paid by whoever for it, and reflect on player, character, and system agency. 
 
-**Concepts**: affect, agency, bouncing, buffs, chance, chaos, character agency, censorship, critical play, disgust, exploration, goosebumps, horror, jumpscares, library of agency, love letters and breakup letters, monsters everywhere, NSFW, player agency, playing with feeling(s), possibility space, power fantasy, ragequit, rails, randomization and random number generators (RNG), rehearsing feelings, romance options, sandbox, shared pulse, system or framework agency, survival, tilt, trauma, trigger and content warnings, violence is the only option?, visceral experience, and vulnerability
+**Concepts**: affect, agency, bouncing, buffs, chance, chaos, character agency, censorship, critical play, disgust, erotics, exploration, goosebumps, horror, jumpscares, library of agency, love letters and breakup letters, monsters everywhere, NSFW, player agency, playing with feeling(s), possibility space, power fantasy, ragequit, rails, randomization and random number generators (RNG), rehearsing feelings, romance options, sandbox, shared pulse, system or framework agency, survival, tilt, trauma, trigger and content warnings, violence is the only option?, visceral experience, and vulnerability
 
 **References**: 
 
