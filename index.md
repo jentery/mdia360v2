@@ -8,14 +8,14 @@
 
 Contents: 
 
-* [Territory Acknowledgement](#territory-acknowledgement)  
+* [Territory Acknowledgement](#territory-acknowledgement)
 * [Description](#description)
-* [Goals](#goals)  
-* [About Me](#about-me)  
-* [Materials](#materials)   
-* [Assignments](#assignments) 
-* [Workload](#workload)   
-* [Schedule](#schedule)   
+* [Goals](#goals)
+* [About Me](#about-me)
+* [Materials](#materials)
+* [Assignments](#assignments)
+* [Workload](#workload)
+* [Schedule](#schedule)
 * [Resources](#resources)
 * [Policies](#policies)
 
@@ -37,10 +37,10 @@ The course counts toward UVic's new [Media Studies](https://www.uvic.ca/calendar
 
 I designed this course for you to: 
 
-1. Build a vocabulary for playing and understanding games. This means you'll learn a lexicon for conversing with game critics, designers, and developers.  
+1. Build a vocabulary for playing and understanding games. This means you'll learn a lexicon for conversing with game critics, designers, and developers.
 2. Practice techniques for documenting play. This means you'll record gameplay, describe it, write about it, and reflect on it. 
 3. Account for context and culture in the analysis of games across the globe. This means we'll consider how, where, when, by whom, for whom, and under what assumptions games are made, played, and circulated. 
-4. Respond directly to classroom activities and lectures about games. This means you'll complete fourteen exit tickets and two worksheets to demonstrate what you're learning.  
+4. Respond directly to classroom activities and lectures about games. This means you'll complete fourteen exit tickets and two worksheets to demonstrate what you're learning.
 5. Produce a multimodal argument about a game or Game Studies topic of your choice. This means you'll use video, audio, and/or images plus text to craft a public-facing final project, supported by a research prospectus, by the end of term. 
 
 Please note that this is not a Game History, History of Gaming, Game Preservation, or Game Design course. 
@@ -62,6 +62,7 @@ You do *not* need to purchase a textbook for this course, but you will need acce
 *Games*: We'll play and watch games throughout the term, and I will invite you to choose your own game(s) to study as part of your final project. The game(s) you choose to study may be video, tabletop, card, board, virtual reality, augmented reality, or alternate reality games.
 
 Here are some games I'll likely engage during lectures and class discussion (this list is obviously not exhaustive): 
+
 * [_1000xRESIST_](https://www.sunsetvisitor.studio/)
 * [_Arctic Eggs_](https://the-water-museum.itch.io/arctic-eggs)
 * [*Citizen Sleeper*](https://www.fellowtraveller.games/citizen-sleeper)
@@ -106,7 +107,7 @@ There are no exams, quizzes, or presentations in this course.
 
 I am asking you to complete five assignments this term. 
 
-* [**Exit tickets**](https://jentery.github.io/mdia360v2/exittickets.html): 10% of your final grade (fourteen of them, each due by the end of class on the day prompted)  
+* [**Exit tickets**](https://jentery.github.io/mdia360v2/exittickets.html): 10% of your final grade (fourteen of them, each due by the end of class on the day prompted)
 * **[Worksheet 1](https://jentery.github.io/mdia360v2/worksheet1.html)**: 20% of your final grade (due by Monday, January 26th at 1pm)
 * **[Worksheet 2](https://jentery.github.io/mdia360v2/worksheet2.html)**: 20% of your final grade (due by Monday, February 23rd at 1pm)
 * [**Research prospectus**](https://jentery.github.io/mdia360v2/prospectus.html) 20% of your final grade (due by Monday, March 16th at 1pm) 
