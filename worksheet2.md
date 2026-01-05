@@ -1,4 +1,4 @@
-🏫 **Media Studies 360 at UVic**
+🏫 **Media Studies 360 at UVic**   
 🎓 Intended for 40 undergraduate students     
 📆 Spring 2026 at the University of Victoria   
 🪑 M and Th, 1-2:20pm | 1.5 units | prereq: AWR   
