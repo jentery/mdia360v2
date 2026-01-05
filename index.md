@@ -1,4 +1,4 @@
-🏫 **Media Studies 360 at UVic**
+🏫 **Media Studies 360 at UVic**  
 🎓 Intended for 40 undergraduate students     
 📆 Spring 2026 at the University of Victoria   
 🪑 M and Th, 1-2:20pm | 1.5 units | prereq: AWR   
@@ -198,7 +198,7 @@ This module begins on Thursday, January 22nd and ends on Thursday, February 12th
 
 ## Th Jan. 22: Satisfaction, Socializing, and the Immersion Problem 
 
-How do different types of games foster different kinds of socialization and satisfaction? How do games frame perception and engagement? How they make mediated experiences feel immediate, and how do they create friction? 
+How do different types of games foster different kinds of socialization and satisfaction? How do games frame perception and engagement? How do they make mediated experiences feel immediate, and how do they create friction? 
 
 Activities: Getting lost in [_1000xRESIST_](https://www.sunsetvisitor.studio/). Sleuthing in [*The Roottrees Are Dead*](https://roottrees.com/).
 
@@ -206,9 +206,9 @@ After class, please read "Satisfaction, Socializing, and the Immersion Problem" 
 
 ## M Jan. 26: Agency and Affect
 
-Where or how do we locate agency in the relational dynamics of gaming? How do games treat our bodies like interfaces? How do they stage interaction, and how do we act, think, and feel our way through them? Matters of control and vulnerability are important here. 
+Where or how do we locate agency in the relational dynamics of gaming? How do games treat our bodies like interfaces? How do they stage interaction between players? With environments and NPCs? And how do we act, think, and feel our way through them? Matters of control, entitlement, and vulnerability are important here. 
 
-Activities: [_Umurangi Generation_](https://www.umurangigeneration.com/) prompts us to photograph red skies, get paid by for it, and reflect on player, character, and system agency. Elsewhere, we start the day with a dice roll in [*Citizen Sleeper*](https://www.fellowtraveller.games/citizen-sleeper). 
+Activities: [_Umurangi Generation_](https://www.umurangigeneration.com/) prompts us to photograph red skies, get paid for it, and reflect on player, character, and system agency. Elsewhere, we start the day with a dice roll in [*Citizen Sleeper*](https://www.fellowtraveller.games/citizen-sleeper). 
 
 After class, please read "Agency and Affect" in the class notebook. 
 
@@ -226,7 +226,7 @@ After class, please read "Playstyles" in the class notebook.
 
 ## M Feb. 2: Roleplay
 
-How do we pretend to believe? How does roleplay transform us? How does it experiment with new social relations and ways to communicate? In what ways are RPGs storytelling engines? 
+How do we pretend to believe? How does roleplay transform us? How does it experiment with new social relations and ways to communicate? How do RPGs become storytelling engines? What makes a compelling NPC in roleplay?
 
 Activity: Let's play [_Lasers & Feelings_](http://www.onesevendesign.com/laserfeelings/) or [_Honey Heist_](https://www.docdroid.net/KJzmn5k/honey-heist-by-grant-howitt-pdf).
 
@@ -248,7 +248,7 @@ After class, please read "Theorycrafting and Cheating" in the class notebook.
 
 How do contexts like the kitchen table alter the rules and boundaries of play? What circumstances or motivations spark the need or desire to modify a game? To change the parameters or impose challenges on ourselves? What's "out of bounds"? Party games, fangames, and speedruns are informative here. 
 
-Activity: Let's watch a [Frame Fatales](https://framefatales.com/) speedrun.
+Activity: Let's watch a [Frame Fatales](https://framefatales.com/) speedrun and share our favourite fangames.
 
 After class, please read "House Rules and Making Your Own Fun" in the class notebook. 
 
@@ -294,7 +294,7 @@ After class, please read "Modes and Genres" in the class notebook.
 
 ## M Mar. 2: Accessibility, Trust, and Tutorialization
 
-How do we learn to play games, and how do games teach us? How do we grow to trust them, and how do they assist us along the way? We'll engage examples of player-agnostic, player-antagonistic design, and player-centric design. 
+How do we learn to play games, and how do games teach us? How do we grow to trust them, and how do they assist us along the way? We'll engage examples of player-agnostic, player-antagonistic, and player-centric design. 
 
 Activity: Conduct a fly-on-the-wall observation of a game and its settings using the Elito method. 
 
@@ -302,7 +302,7 @@ After class, please read "Accessibility, Trust, and Tutorialization" in the clas
 
 ## Th Mar. 5: Worldbuilding and Worldviews
 
-How is a world more than the setting of a game? What do gameworlds make possible? What do they value? How and when do we encounter their limits and boundaries? 
+How is a world more than the setting of a game? What do gameworlds make possible? What do they value? How and when do we encounter their edges?
 
 Activity: Conduct a design charrette to prototype a gameworld or reimagine an existing one. 
 
@@ -312,7 +312,7 @@ After class, please read "Worldbuilding and Worldviews" in the class notebook.
 
 What happens when we focus on the art, haptics, and audiovisual effects of games? How are games designed to be heard, seen, felt, and experienced, and how do they construct or frame perspectives? 
 
-Activity: Use 30 seconds of gameplay footage to retroactively create an asset list for a published game. 
+Activity: Create an asset list for a published game based on 30 seconds of gameplay footage.
 
 After class, please read "Art, Vibes, and Perspectives" in the class notebook. 
 
@@ -328,9 +328,9 @@ After class, please read "Habits and Mechanics" in the class notebook.
 
 ## M Mar. 16: Narrative, Pacing, and Progression 
 
-When and why do choices matter in a game's narrative? How and to what effects is progression gated, and to what degree can the rhythm of activities and events be designed? How do player stories differ from game narratives, and how do game environments evoke, trigger, and stage storytelling? 
+When and why do choices matter in a game's narrative? How and to what extent is progression gated, and to what degree can the rhythm of activities and events be designed? How do player stories differ from game narratives, and how do game environments evoke, trigger, and stage storytelling? 
 
-Activities: Let's read [_Under a Star Called Sun_](https://haraiva.itch.io/under-a-star-called-sun) and discuss memorable beats, arcs, and player stories. 
+Activities: Let's read [_Under a Star Called Sun_](https://haraiva.itch.io/under-a-star-called-sun) and discuss memorable beats, arcs, and player stories from other games. 
 
 After class, please read "Narrative, Pacing, and Progression" in the class notebook. 
 
@@ -348,7 +348,7 @@ After class, please read "Simulation and Management" in the class notebook.
 
 ## M Mar. 23: Conferences
 
-I will hold optional student conferences. Please contact me to schedule an appointment.
+I will hold optional student conferences. Please contact me to schedule an appointment if you would like to discuss your work in this course. I’m happy to chat!
 
 no exit ticket today
 
@@ -362,7 +362,7 @@ After class, please read "Puzzles and Easter Eggs" in the class notebook.
 
 ## M Mar. 30, Pt. I: Guest Speaker
 
-After class, please read "Conversation with Guest Speaker" in the class notebook. 
+Details regarding our guest speaker are coming soon.
 
 ## M Mar. 30, Pt. II: Localization and Preservation 
 
