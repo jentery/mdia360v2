@@ -160,6 +160,8 @@ Activity: What happens when 39 people play [_Ultimate Werewolf_](https://bezier
 
 After class, please read "Situating Play in Games" in the class notebook.
 
+Exit tickets begin today and end on Monday, March 30th.
+
 *Please email me if you have trouble accessing the class notebook or questions about the exit tickets.*
 
 ## M Jan. 12: Keep Playing: From Motivation to Exploitation
