@@ -107,10 +107,10 @@ There are no exams, quizzes, or presentations in this course.
 I am asking you to complete five assignments this term. 
 
 * [**Exit tickets**](https://jentery.github.io/mdia360v2/exittickets.html): 10% of your final grade (fourteen of them, each due by the end of class on the day prompted)  
-* **[Worksheet 1](https://jentery.github.io/mdia360v2worksheet1.html)**: 20% of your final grade (due by Monday, January 26th at 1pm)
-* **[Worksheet 2](https://jentery.github.io/mdia360v2worksheet2.html)**: 20% of your final grade (due by Monday, February 23rd at 1pm)
-* [**Research prospectus**](https://jentery.github.io/mdia360v2prospectus.html) 20% of your final grade (due by Monday, March 16th at 1pm) 
-* **[Final project](https://jentery.github.io/mdia360v2finalproject.html)**: 30% of your final grade (due by Thursday, April 16th at 1pm)   
+* **[Worksheet 1](https://jentery.github.io/mdia360v2/worksheet1.html)**: 20% of your final grade (due by Monday, January 26th at 1pm)
+* **[Worksheet 2](https://jentery.github.io/mdia360v2/worksheet2.html)**: 20% of your final grade (due by Monday, February 23rd at 1pm)
+* [**Research prospectus**](https://jentery.github.io/mdia360v2/prospectus.html) 20% of your final grade (due by Monday, March 16th at 1pm) 
+* **[Final project](https://jentery.github.io/mdia360v2/finalproject.html)**: 30% of your final grade (due by Thursday, April 16th at 1pm)   
 
 *Exit tickets*: At the end of twenty-one different class sessions, I will ask you to use a notecard (which I will provide) to respond to two prompts. These prompts will ask you to share what you're learning from class sessions, what you hope to learn, and what questions you have. You will submit your responses (on the notecard) to me by the end of class. You should submit a total of fourteen exit tickets (meaning you don't need to submit one at the end of every class), and I will track your submissions in Brightspace. See the schedule below for sessions *without* an exit ticket. 
 
