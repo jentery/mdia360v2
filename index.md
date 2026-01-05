@@ -11,7 +11,7 @@ Contents:
 * [Territory Acknowledgement](#territory-acknowledgement)  
 * [Description](#description)
 * [Goals](#goals)  
-* [About Us](#about-us)  
+* [About Me](#about-me)  
 * [Materials](#materials)   
 * [Assignments](#assignments) 
 * [Workload](#workload)   
@@ -286,7 +286,7 @@ This module begins on Thursday, February 26th and ends on Monday, March 30th.
 
 How are game genres more like activities than labels, and how are those activities configured and prompted through game design? 
 
-Activity: Let's use a read- and think-aloud protocol while palying [_Fledgling Manor_](https://in-secret-places.itch.io/fledgling-manor). 
+Activity: Let's use a read- and think-aloud protocol while playing [_Fledgling Manor_](https://in-secret-places.itch.io/fledgling-manor). 
 
 After class, please read "Modes and Genres" in the class notebook. 
 
@@ -322,7 +322,7 @@ After class, please read "Art, Vibes, and Perspectives" in the class notebook.
 
 What are the expressive and functional verbs of games, and how are they embodied? How (and under what assumptions) do they become entangled with the discourse of "addictive" loops? 
 
-Activities: Let's flip some [_Arctic Eggs_](https://the-water-museum.itch.io/arctic-eggs). We might try a game of crokinole and run of [*Hades*](https://www.supergiantgames.com/games/hades/), too. 
+Activities: Let's flip some [_Arctic Eggs_](https://the-water-museum.itch.io/arctic-eggs). We might try a game of crokinole and a run of [*Hades*](https://www.supergiantgames.com/games/hades/), too. 
 
 After class, please read "Habits and Mechanics" in the class notebook. 
 
@@ -376,7 +376,7 @@ We'll wrap up the class, discuss what you learned, and reflect on what worked an
 
 no exit ticket today
 
-*Please email me if you have any questions or concerns about the feedback (global or individual) I provided on the research prospectus. 
+*Please email me if you have any questions or concerns about the feedback (global or individual) I provided on the research prospectus.* 
 
 *UVic is closed on April 3rd and 6th, and the exam period begins on April 7th.*
 
@@ -446,11 +446,11 @@ I respond to email between 9am and 5pm, Monday through Friday, excluding holiday
 
 ### Assessment and Feedback
 
-You must submit the final project and at least one worksheet to pass this course. Failure to complete these three assignments will result in a failing N grade (calculated as a 0 for your GPA). 
+You must submit the final project and both worksheets to pass this course. Failure to complete these three assignments will result in a failing N grade (calculated as a 0 for your GPA). 
 
 I will use UVic's [official grading system](https://www.uvic.ca/calendar/future/undergrad/index.php#/policy/S1AAgoGuV?bc=true&bcCurrent=14%20-%20Grading&bcGroup=Undergraduate%20Academic%20Regulations&bcItemType=policies) to produce rubrics to assess your work. I will not post marks publicly or outside my office, and I do not use plagiarism or AI detection software.
 
-All assignments except for the exit tickets should be submitted via Brightspace. I cannot accept worksheets, the research prospectus, or the final project via email. Each exit ticket is due by the end of class (11:20am) on the day it's prompted. 
+All assignments except for the exit tickets should be submitted via Brightspace. I cannot accept the worksheets, research prospectus, exit tickets, or final project via email. Each exit ticket is due by the end of class (2:20pm) on the day it's prompted. 
 
 I will use Brightspace to provide feedback on your work. If you ever want additional feedback, then feel free to ask me. I can provide it in person, via Zoom, or by email. 
 
