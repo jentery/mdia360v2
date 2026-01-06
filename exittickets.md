@@ -11,13 +11,13 @@ Near the end of twenty-one different class sessions, I will ask you to use a not
 
 ## Number of Tickets to Submit
 
-You should submit a total of *fourteen exit tickets* (across fourteen different class sessions) in response to the twenty-one I prompt this term. I cannot accept more than fourteen exit tickets per student. 
+You should submit a total of *fourteen exit tickets* (across fourteen different class sessions) in response to the twenty-one tickets I prompt this term. I cannot accept more than fourteen exit tickets per student. 
 
 ## Format 
 
 As part of your exit ticket, please include the following information on the notecard I provide: 
  
-1. Your first name and surname 
+1. Your first and last name 
 2. "MDIA360" 
 3. One written response on each side of the card (there will be two prompts per ticket)
     
@@ -31,16 +31,16 @@ I will use the following rubric, based on [UVic's official grading system](https
 * 8.0 - 8.9 points: you addressed both questions; your responses referred explicitly to aspects of the course material (such as the notebook, lectures, gameplay footage, and class discussions)
 * 7.3 - 7.9 points: you addressed both questions; your responses referred implicitly or vaguely to aspects of the course material
 * 7.0 - 7.2 points: you addressed both questions 
-* 5.5 - 6.9 points: you addressed one question; your response referred explicitly to aspects of the course material (such as the notebook, lectures, gameplay footage, and class discussions) and attended constructively to critical issues pertinent to Game Studies that we've not (yet) addressed or discussed
-* 4.5 - 5.4 points: you addressed one question; your response referred explicitly to aspects of the course material (such as the notebook, lectures, gameplay footage, and class discussions)
-* 3.1 - 4.4 points: you addressed one question; your response referred implicitly or vaguely to aspects of the course material
-* 2.5 - 3.0 points: you responded to both prompts but didn't address the questions
-* 1.1 - 2.4 points: you responded to only one prompt and didn't address the question
+* 6.0 - 6.9 points: you addressed one question; your response referred explicitly to aspects of the course material (such as the notebook, lectures, gameplay footage, and class discussions) and attended constructively to critical issues pertinent to Game Studies that we've not (yet) addressed or discussed
+* 5.0 - 5.9 points: you addressed one question; your response referred explicitly to aspects of the course material (such as the notebook, lectures, gameplay footage, and class discussions)
+* 3.0 - 4.9 points: you addressed one question; your response referred implicitly or vaguely to aspects of the course material
+* 2.0 - 2.9 points: you responded to both prompts but didn't address the questions
+* 1.1 - 1.9 points: you responded to only one prompt and didn't address the question
 * 1.0 point: you submitted a notecard with your name and "MDIA360" but no responses on it
 
 ## What to Submit and When to Submit It
 
-Please submit a notecard containing two responses (one per side of the card), your first name and surname, and "MDIA360" before the end of class on the day prompted. 
+Please submit a notecard containing two responses (one per side of the card), your first and last name, and "MDIA360" before the end of class on the day prompted. 
 
 I cannot accept exit tickets via email or Brightspace. Thank you for understanding. 
 
