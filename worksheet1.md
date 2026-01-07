@@ -62,7 +62,7 @@ I recommend using prose (paragraphs) rather than point form in your responses. P
 
 ## AI Tools 
 
-I do not recommend relying on generative AI or other AI tools to respond to this assignment. AI-generated responses tend to be generic, and they lack self-reflection, which is a key element of every prompt in this worksheet. AI results can also be biased and incorrect. It is your responsibility to ensure that the information you use from AI is accurate. You should also pay attention to the privacy of your data. Many AI tools will incorporate and use any content (including copyrighted materials, original work, and personal information) you upload, paste, or share with them. In short, relying on AI could create more work for you in the end, and it tends to hinder or "deskill" the learning process. 
+I do not recommend relying on generative AI or other AI tools to respond to this assignment. AI-generated responses tend to be generic, and they lack self-reflection, which is a key element of every prompt in this worksheet. AI results can also be biased and incorrect. It is your responsibility to ensure that the information you use from AI is accurate. You should also pay attention to the privacy of your data. Many AI tools will incorporate and use any content (including copyrighted materials, original work, and personal information) you upload, paste, or share with them. In short, relying on AI could create more work for you in the end, and it tends to hinder and even "deskill" the learning process. 
 
 All sources, including AI tools, must be properly cited. (Language for this policy was drawn from language used at the University of Washington.)
 
