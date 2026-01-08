@@ -7,7 +7,7 @@
 
 # Exit Tickets 
 
-Near the end of twenty-one different class sessions, I will ask you to use a notecard (which I will provide) to respond in writing to two prompts. These prompts will ask you to share what you're learning from the course material, what you hope to learn, and what questions you have. You should submit your responses on the notecard to me as you exit the classroom. We'll call these notecards "exit tickets." 
+Near the end of twenty-one different class sessions, I will ask you to use a notecard (which I will provide) to respond in writing to two prompts that I will circulate in writing during class. (I will also read them aloud.) These prompts will ask you to share what you're learning from the course material, what you hope to learn, and what questions you have. You should submit your responses on the notecard to me as you exit the classroom. We'll call these notecards "exit tickets." 
 
 ## Number of Tickets to Submit
 
@@ -20,6 +20,8 @@ As part of your exit ticket, please include the following information on the not
 1. Your first and last name 
 2. "MDIA360" 
 3. One written response on each side of the card (there will be two prompts per ticket)
+
+I will share the prompts for each notecard during class by circulating them in writing and reading them aloud. 
     
 ## Assessment 
 
