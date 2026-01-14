@@ -363,15 +363,15 @@ Activity: Let's survey types of puzzles in games and discuss what they do well a
 
 After class, please read "Puzzles and Easter Eggs" in the class notebook. 
 
-## M Mar. 30, Pt. I: Guest Speaker
-
-Details regarding our guest speaker are coming soon.
-
-## M Mar. 30, Pt. II: Localization and Preservation 
+## M Mar. 30, Pt. I: Localization and Preservation 
 
 I'll give a brief lecture on current research in two areas: a) game preservation and b) game localization or "culturalization." 
 
 After class, please read "Localization and Preservation" in the class notebook. 
+
+## M Mar. 30, Pt. II: Janet Garcia (guest speaker)
+
+[Janet Garcia](https://gameonysus.com/) (aka Gameonysus) is a game critic and content creator who writes for *Pen to Pixels*, worked on *OlliOlli World*, and appears on *The MinnMax Show*, *Pew Pew Bang*, *Remap Radio*, and *The Indie Council*. 
 
 ## Th Apr. 2: Last Session! 
 
