@@ -271,7 +271,7 @@ After class, please read "Content Creation and Backseat Gaming" in the class not
 
 ## M Feb. 16 and Th. Feb 19: Reading Break
 
-We wish you a rejuvenating reading break! 
+Wishing you a rejuvenating reading break! 
 
 ## M Feb. 23: Christine H. Tran (guest speaker)
 
