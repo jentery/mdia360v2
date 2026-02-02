@@ -63,6 +63,17 @@ Then use no more than 500 words, including terminology from the class notebook, 
 
 Your mark for Worksheet 2 constitutes 20% of your final mark in this course. 
 
+I will use the following criteria to assess your responses. 
+
+The degree to which they: 
+
+* Address each aspect of the prompt.
+* Persuasively combine writing with play and gameplay documentation (including images, audio, text, and video). 
+* Engage and even enhance the course material.
+* Are supported by a convincing use of detail and examples.  
+* Apply theories, findings, publications, and terminology from the course material, including lectures, class discussions, the class notebook, and research referenced in that notebook.
+* Communicate synthetically and make connections across the course material. 
+
 I will use the following rubric, based on [UVic's official grading system](https://www.uvic.ca/calendar/undergrad/index.php#/policy/S1AAgoGuV?bc=true&bcCurrent=14%20-%20Grading&bcGroup=Undergraduate%20Academic%20Regulations&bcItemType=policies), to assess your responses. 
 
 * 89.5-100 (exceeds all expectations of the worksheet): the responses are compelling; they address all the prompts and apply course terminology; they enhance the course material, including lectures, class discussions, the class notebook, and our engagements with games; the use of examples is clear, focused, convincing, and inventive (original insight)
