@@ -31,15 +31,7 @@ Please include your 150-word abstract either at the beginning of your exhibit or
 
 ## Audience
 
-Current and future students, faculty, and staff in UVic's [Media Studies program](https://www.uvic.ca/humanities/media-studies/index.php) are your primary audience. Your exhibit should make a compelling case why your footage should be included in the [Gameplay Footage Collection](https://echo360.ca/collections/438697b1-2c76-4729-8dc6-42d7409d8cb8).
-
-## Metadata 
-
-Please copy or download this [spreadsheet](https://docs.google.com/spreadsheets/d/15k2oHLyZU_kya3z9-KTsCqoR5iTfDKH-gYppdsZD-pk/edit?usp=sharing) and complete one row for every file in your exhibit (at least five rows and no more than eight).
-
-Enter data in every column. Note that most columns contain dropdown menus ("controlled vocabularies") to facilitate the data entry process. 
-
-Please consult this [documentation](https://uvicpraxis.github.io/metadata.html) if you have questions about the metadata fields or their vocabularies. I wrote it with members of my lab (the Praxis Studio). Email me if you still have questions after reviewing the documentation. 
+Current and future students, faculty, and staff in UVic's [Media Studies program](https://www.uvic.ca/humanities/media-studies/index.php) are your primary audience. Your exhibit should make a compelling case for why your footage should be included in the [Gameplay Footage Collection](https://echo360.ca/collections/438697b1-2c76-4729-8dc6-42d7409d8cb8).
 
 ## The Prompt
 
@@ -49,6 +41,13 @@ Your 5-8 video files should:
 * Document gameplay that was recorded purposefully. That is, there should be a reason why you recorded a particular moment in the game, and that reason should be relatively clear to your audience as they watch and listen. 
 * Be accompanied by [metadata](https://docs.google.com/spreadsheets/d/15k2oHLyZU_kya3z9-KTsCqoR5iTfDKH-gYppdsZD-pk/edit?usp=sharing).
 * Be accompanied by written or recorded permissions if you play a game with someone else or otherwise involve them in the footage. 
+
+Your metadata should: 
+
+* Appear in this [spreadsheet](https://docs.google.com/spreadsheets/d/15k2oHLyZU_kya3z9-KTsCqoR5iTfDKH-gYppdsZD-pk/edit?usp=sharing), which you should copy or download. 
+* Accompany each of your 5-8 video files. Complete one row in the [spreadsheet](https://docs.google.com/spreadsheets/d/15k2oHLyZU_kya3z9-KTsCqoR5iTfDKH-gYppdsZD-pk/edit?usp=sharing) per file in your exhibit. 
+* Account for every field in the metadata schema for the Gameplay Footage Collection. This means you should enter data in every column of the [spreadsheet](https://docs.google.com/spreadsheets/d/15k2oHLyZU_kya3z9-KTsCqoR5iTfDKH-gYppdsZD-pk/edit?usp=sharing).Note that most columns contain dropdown menus (aka, "controlled vocabularies") to facilitate the data entry process. 
+* Informed by [documentation](https://uvicpraxis.github.io/metadata.html), which I wrote with researchers in my lab (the Praxis Studio). If, after reviewing the documentation, you still have questions about entering metadata in every field provided, then please don't hesitate to email. I'm happy to help. 
 
 Your 1250-2250 words should: 
 
