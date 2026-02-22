@@ -7,4 +7,4 @@
 
 # Final Project
 
-This assignment will go live in February or March 2026. Thanks for your patience. 
+Choose your own adventure for this assignment: either the [Essay Option](essay.html) or the [Exhibit Option](exhibit.html).
