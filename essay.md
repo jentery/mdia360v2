@@ -11,7 +11,7 @@ The Essay Option for the Final Project in MDIA360 covers course material since J
 
 This assignment is *open-book*, meaning you are allowed to use the course website, the class notebook, your own notes, recordings of class sessions, the library, books, journal articles, games, and the internet to address the prompt.
 
-I recommend preparing for your essay by reviewing WS1, WS2, and the Research Prospectus. How might you integrate some of that material with your essay? Build on your existing research. Avoid reinventing the wheel.
+I recommend preparing for your essay by reviewing WS1, WS2, and the Research Prospectus. How might you integrate some of that material with your essay? Build on existing research. Avoid reinventing the wheel.
 
 *Please cite your source material.*
 
@@ -22,9 +22,9 @@ Before you proceed with this assignment, note that an [Exhibit](exhibit.html) is
 You have two options for the essay: 
 
 1. A video essay of 10-16 minutes, including at least five minutes of your own gameplay footage, or 
-2. A written essay of 1500-2500 words, plus at least five minutes of your own gameplay footage.
+2. A written essay of 1500-2500 words, including at least five minutes of your own gameplay footage.
 
-You should *not* submit a text-only or text+image essay.  
+You should *not* submit a text-only, audio-only, or text+image essay.  
 
 The essay should be accompanied by: 
 
@@ -41,37 +41,37 @@ You should identify an appropriate venue for your essay. Types of venues include
 * Commercial or independent games media publications (print or online), and
 * Channels on video-sharing platforms (your own channel or someone else's).
 
-Please include the URL and title of the venue in your 150-word abstract. 
+Please include the title of the venue in your 150-word abstract as well as a URL for it.  
 
 You should also identify the intended audience for your essay. Audiences include: 
 
 * Game Studies scholars with interests in X (where "X" is an area in the field),
 * Fans of X game (where "X" is the title of a game), and
-* Readers of X venue (where "X" is the title of the venue you identified above).
+* Readers of X venue (where "X venue" is the title of the venue you identified above).
 
-Please mention your audience in your 150-word abstract. 
+Please mention your intended audience in your 150-word abstract (e.g., "This essay is intended for X"). 
 
-Your audience needn't be academic, and your essay should "fit" stylistically with the venue and audience you selected. Consider your word choice, voice, delivery, writing conventions, and use of evidence or examples. Aim to converse with your audience. Avoid talking down to them. 
+Your audience needn't be academic, but your essay should "fit" stylistically with the venue and audience you selected. Consider your word choice, voice, delivery, writing conventions, and use of evidence or examples. Aim to converse with your audience. Avoid talking down to them. 
 
 ## Language, Media, and Perspective 
 
-You are welcome to use first-, second-, and/or third-person language in your essay. You are also welcome to include voice-over, a face camera, documentation of you playing a game, or the like. Some gameplay footage is required, though. (Details below.)
+You are welcome to use first-, second-, and/or third-person language in your essay. (I strongly encourage some use of the first-person perspective.) You are also welcome to include voice-over, a face camera, documentation of you playing a game, or the like. At least five minutes of your own gameplay footage is required.
 
-Some questions to consider: Do you want to be a "main character" in the argument you're making? Do you want people to hear your voice (on or off camera), or would you rather have them read your writing? Will you break the fourth wall? Are you bringing your intended audience on an emotional journey (pathos) through your essay? Are you leaning into the logic (logos) of a game's design? Who is your crew of fellow critics (ethos), and how are you conversing with them and building on their work? How are you pacing (kairos) your essay for your intended audience to follow along? 
+Some questions to consider: Do you want to be a "main character" in the argument you're making? Do you want people to hear your voice (on or off camera), or do you want them to read your writing? Will you break the fourth wall? Are you bringing your intended audience on an emotional journey (pathos) through your essay? Are you leaning into the logic (logos) of a game's design? Who is your crew of fellow critics (ethos), and how are you conversing with them and building on their work? How are you pacing (kairos) your essay for your intended audience to follow along? 
 
 ## The Prompt
 
 Please compose a video essay or written essay that: 
 
 * Addresses a specific game or topic in Game Studies. 
-* Focuses on a recognizable theme from start to finish. 
+* Follows a recognizable theme from start to finish. 
 * Is intentionally scoped with clear goals and a clear sense of direction. (Avoid talking about "all the things." When in doubt, cut it out.) 
-* Fits stylistically with its intended venue and audience (see above). 
+* Fits stylistically with its intended venue (see above). 
 * Exhibits an awareness of its audience, their knowledge, and their expectations. 
-* Engages current or pressing issues in Game Studies, including issues addressed by multiple entries in the MDIA 360 class notebook. 
+* Engages current or pressing issues in Game Studies, including issues addressed by multiple entries in the MDIA360 class notebook. 
 * Explains or demonstrates why these issues matter, for whom they matter most, and how you're approaching them. 
-* Includes a thesis with which someone could disagree. You may communicate that thesis directly or indirectly. 
-* Uses your own gameplay footage to support or enact that thesis. Your gameplay footage should provide your audience with unique access to a game you've played (where "unique" means "not available elsewhere" and/or "specific to my playstyle").
+* Includes an [interesting and arguable claim](https://depts.washington.edu/owrcweb/wordpress/wp-content/uploads/2023/02/Claims-Claims-Claims.pdf) with which someone could disagree.
+* Uses your own gameplay footage to support or enact that claim. Your gameplay footage should provide your audience with unique access to a game you've played (where "unique" means "not available elsewhere" and/or "specific to my playstyle").
 * Integrates at least five secondary sources with your essay's theme and research. You should quote, paraphrase, or otherwise integrate material from these five sources. Secondary sources may include academic publications, games media and criticism, and video essays and recorded talks. I recommend mixing it up, but at least two of the secondary sources should be academic publications (from journals or university presses). 
 * Converses with existing work related to your theme. Acknowledge designers, developers, studios, and fellow critics by name in your essay. 
 * Contains credits or a references section. 
