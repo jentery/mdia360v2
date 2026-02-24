@@ -17,7 +17,7 @@ I recommend reviewing your WS1, WS2, and research prospectus before you begin th
 
 ## Scenario 
 
-Imagine a publication venue invites you to contribute an essay on a game and topic of your choice. The venue is open to a *video essay* (10-16 minutes) or *written essay* (1500-2500 words); either way, they want you to also include at least five minutes of *your own gameplay footage*. That way, the venue's audience has unique access to the game you select. 
+Imagine that a publication venue invited you to submit an essay on a game and topic of your choice. The venue is open to a *video essay* (10-16 minutes) or *written essay* (1500-2500 words); either way, they want you to also include at least five minutes of *your own gameplay footage*. That way, the venue's audience has unique access to the game you select. 
 
 Before you proceed, you should identify the publication venue by title. It should actually exist, and it should be active. Types of pertinent publication venues include academic journals, commercial or independent websites and magazines, and channels on video-sharing platforms. 
 
@@ -29,19 +29,21 @@ The venue says your video essay (10-16 minutes) or written essay (1500-2500 word
 2. Follow a recognizable theme from start to finish. 
 3. Have a style that corresponds with their style, mission, and readership/viewership. 
 4. Demonstrate an awareness of their readership/viewership's interests and expectations. 
-5. Engage a current issue. 
-6. Explain or demonstrate why the issue matters and for whom it matters most.
+5. Engage a current topic in games. 
+6. Explain or demonstrate why the topic matters and for whom it matters most.
 7. Include at least five minutes of your own gameplay footage,
-8. Be intentionally scoped. (The goals and direction should be clear. They want you to avoid talking about "all the things." When in doubt, cut it out.) 
-9.  Converse with existing work related to your game and theme.
+8. Be intentionally scoped. (The goals should be clear, and the topic should be addressable in 10-16 minutes / 1500-2500 words.)  
+9. Converse with existing work related to your game and theme.
 10. Acknowledge designers, developers, studios, and fellow critics by name. 
 11. Include credits or references.
 
-Some questions to consider: What are the venue's conventions? Do you want to be a "main character" in your essay? Do you want people to hear your voice (on or off camera), or do you want them to read your writing? Will you break the fourth wall? Are you bringing your audience on a journey (pathos) through your essay? Are you using logic (logos) to make an [argument](https://depts.washington.edu/owrcweb/wordpress/wp-content/uploads/2023/02/Claims-Claims-Claims.pdf)? Who is your crew of fellow critics (ethos), and how are you conversing with them, citing them, and building on their work? How are you pacing (kairos) your essay for your audience to follow along? 
+Some questions to consider: What are the venue's conventions? Do you want to be a "main character" in your essay? Do you want people to hear your voice (on or off camera), or do you want them to read your writing? Will you break the fourth wall? Are you bringing your audience on an emotional journey (pathos) through your essay? Are you using logic (logos) to make an [argument](https://depts.washington.edu/owrcweb/wordpress/wp-content/uploads/2023/02/Claims-Claims-Claims.pdf)? Who is your crew of fellow critics (ethos), and how are you conversing with them, citing them, and building on their work? How are you pacing (kairos) your essay for your audience to follow along? 
 
 ## Assessment 
 
-Your mark for the Final Project constitutes 30% of your final mark in this course. Note that, as part of your response to the above scenario, you're expected to *cite, integrate, and apply the MDIA360 course material* (including secondary sources referenced in the class notebook).
+Your mark for the Final Project constitutes 30% of your final mark in this course. 
+
+Note that, as part of your response to the above scenario, you're expected to *cite, integrate, and apply some course material from each of MDIA360's three modules* (including secondary sources referenced in the class notebook).
 
 I will use the following rubric, based on [UVic's official grading system](https://www.uvic.ca/calendar/future/undergrad/index.php#/policy/S1AAgoGuV?bc=true&bcCurrent=14%20-%20Grading&bcGroup=Undergraduate%20Academic%20Regulations&bcItemType=policies), to assess your essay. 
 
@@ -68,7 +70,13 @@ When in doubt, cite it.
 
 ## What to Submit 
 
-Please submit a DOCX, ODT, PAGES, PDF, MOV, or MP4 file containing your essay along with any other files you wish to attach. Transcripts of video essays are welcome but not expected for this assignment. 
+Please submit: 
+
+1. A DOCX, ODT, PAGES, PDF, MOV, or MP4 file containing your essay, 
+2. The title of the intended publication venue, and
+3. Any other files you wish to attach. 
+ 
+Transcripts of video essays are welcome but not expected for this assignment. 
 
 ## When to Submit It
 
