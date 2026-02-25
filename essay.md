@@ -43,7 +43,7 @@ Some questions to consider: What are the venue's conventions? Do you want to be 
 
 Your mark for the Final Project constitutes 30% of your final mark in this course. 
 
-Note that, as part of your response to the above scenario, you're expected to *cite, integrate, and apply some course material from each of MDIA360's three modules* (including secondary sources referenced in the class notebook).
+Note that, as part of your response to the above scenario, you're expected to *cite, integrate, and apply course material from each of MDIA360's three modules* (including secondary sources referenced in the class notebook).
 
 I will use the following rubric, based on [UVic's official grading system](https://www.uvic.ca/calendar/future/undergrad/index.php#/policy/S1AAgoGuV?bc=true&bcCurrent=14%20-%20Grading&bcGroup=Undergraduate%20Academic%20Regulations&bcItemType=policies), to assess your essay. 
 
