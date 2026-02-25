@@ -7,7 +7,7 @@
 
 # Prospectus
 
-The Prospectus prepares you for your Final Project in this course: either the [Essay Option](essay.html) or the [Exhibit Option](exhibit.html). Note that you needn't commit to one of those options to complete this assignment, but you should carefully review both option and ask me any questions you have before you proceed.
+The Prospectus prepares you for your Final Project in this course: either the [Essay Option](essay.html) or the [Exhibit Option](exhibit.html). Note that you don't need to commit to one of those options to complete this assignment, but you should carefully review both options and ask me any questions you have about the Final Project before you proceed.
 
 This assignment is *open-book*, meaning you are allowed to use the course website, the class notebook, your own notes, recordings of class sessions, the library, books, journal articles, games, and the internet to address the prompt.
 
@@ -25,10 +25,10 @@ The prospectus template contains *ten* prompts. Please respond to all of them. I
 
 1. Provide a working title for your Final Project. No worries. It will probably change by the time you submit the project. 
 2. Use no more than 200 words to describe a game you might play for your Final Project. Explain why it's interesting and identify who thinks it's interesting (e.g., which fans, critics, or communities). 
-3. Use 2-3 sentences to describe your Final Project's intended audience, including their interests and expectations. Be specific. 
+3. Use 2-3 sentences to describe the group who will likely be your Final Project's intended audience, including their interests and expectations. Be specific. 
 4. Use no more than 200 words to describe a Game Studies topic you want to address in your Final Project. Explain why the topic matters and for whom it matters most. Be specific and draw upon the class notebook. 
 5. Use no more than 200 words to describe a problem in Game Studies that will likely motivate your Final Project. Who or what, for instance, has been overlooked? Misinterpreted? Privileged or marginalized? Be specific and draw upon the class notebook.
-6. Use 2-3 sentences to share a specific goal you want to achieve via your Final Project. For instance . . . What do you want to learn? What question are you aiming to address? What do you hope to change? 
+6. Use 2-3 sentences to share a specific goal you want to achieve via your Final Project. What do you want to learn? What question are you aiming to address? What do you hope to change? 
 7. Use no more than 200 words to identify a [Module 1](https://jentery.github.io/mdia360v2/#module-1-culture-four-sessions) concept and explain its potential relevance to your Final Project. Support your remarks with a secondary source referenced in the notebook. 
 8. Use no more than 200 words to identify a [Module 2](https://jentery.github.io/mdia360v2/#module-2-play-and-metagaming-seven-sessions) concept and explain its potential relevance to your Final Project. Support your remarks with a secondary source referenced in the notebook. 
 9. Use no more than 200 words to identify two [Module 3](https://jentery.github.io/mdia360v2/#module-3-values-and-design-nine-sessions) concepts and explain their potential relevance to your Final Project. This response will be somewhat conjectural since we haven't completed Module 3. Don't hesitate to point to concepts or topics scheduled for later in March.  
@@ -81,8 +81,8 @@ Please do not forget to cite any material from which you draw ideas or examples.
 
 ## What to Submit 
 
-Please submit a DOCX, ODT, PAGES, or PDF file containing your answers and references along with any media files you'd like to attach or embed. 
+Please [download the prospectus template](mdia360v2Prospectus.docx) (DOCX format), complete it, and submit it as a DOCX, ODT, PAGES, or PDF file containing your answers and references. You are also welcome to attach media files, including gameplay footage, if you wish. 
 
 ## When to Submit It
 
-A response to the Research Prospectus is due by 1pm on Monday, March 16th, but there is a grace period. I will deduct five points for every business day I receive the Prospectus after 1pm on Tuesday, March 17th. I will close the submission portal for the Prospectus at 1pm on Monday, March 30th, and cannot accept any submissions after the portal is closed. I will not accept any submissions by email.
+A response to the Prospectus is due by 1pm on Monday, March 16th, but there is a grace period. I will deduct five points for every business day I receive the Prospectus after 1pm on Tuesday, March 17th. I will close the submission portal for the Prospectus at 1pm on Monday, March 30th, and cannot accept any submissions after the portal is closed. I will not accept any submissions by email.
