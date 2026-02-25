@@ -21,17 +21,17 @@ Please [download the prospectus template](mdia360v2Prospectus.docx) (DOCX format
 
 The prospectus template contains *ten* prompts. Please respond to all of them. I will mark the Prospectus holistically rather than giving each response a separate mark. 
 
-## The Prompts 
+## The Ten Prompts 
 
 1. Provide a working title for your Final Project. No worries. It will probably change by the time you submit the project. 
-2. Use no more than 200 words to describe a game you might play for your Final Project. Explain why it's interesting and identify who thinks it's interesting (e.g., which fans, critics, or communities). 
-3. Use 2-3 sentences to describe the group who will likely be your Final Project's intended audience, including their interests and expectations. Be specific. 
-4. Use no more than 200 words to describe a Game Studies topic you want to address in your Final Project. Explain why the topic matters and for whom it matters most. Be specific and draw upon the class notebook. 
-5. Use no more than 200 words to describe a problem in Game Studies that will likely motivate your Final Project. Who or what, for instance, has been overlooked? Misinterpreted? Privileged or marginalized? Be specific and draw upon the class notebook.
-6. Use 2-3 sentences to share a specific goal you want to achieve via your Final Project. What do you want to learn? What question are you aiming to address? What do you hope to change? 
-7. Use no more than 200 words to identify a [Module 1](https://jentery.github.io/mdia360v2/#module-1-culture-four-sessions) concept and explain its potential relevance to your Final Project. Support your remarks with a secondary source referenced in the notebook. 
-8. Use no more than 200 words to identify a [Module 2](https://jentery.github.io/mdia360v2/#module-2-play-and-metagaming-seven-sessions) concept and explain its potential relevance to your Final Project. Support your remarks with a secondary source referenced in the notebook. 
-9. Use no more than 200 words to identify two [Module 3](https://jentery.github.io/mdia360v2/#module-3-values-and-design-nine-sessions) concepts and explain their potential relevance to your Final Project. This response will be somewhat conjectural since we haven't completed Module 3. Don't hesitate to point to concepts or topics scheduled for later in March.  
+2. Use no more than 200 words to talk about a game you might play for your Project. Explain why it interests you, describe the context of its production and release, and explain its cultural, political, social, technical, or aesthetic significance. 
+3. Use 2-3 sentences to describe the group most likely to be your Project's intended audience, including their interests and expectations. What do they know? What do they care about? What are some of their habits? Be specific. 
+4. Use no more than 200 words to describe an area within Game Studies that you want to address in your Project. (Look at unit titles for each day in the [schedule](https://jentery.github.io/mdia360v2/#schedule) if you're unsure where to begin.) Explain why the area matters to you and how you might use it to narrow or focus your inquiry in March and April. What questions will it help you ask now? Which questions will it help you save for later? Be specific and draw upon the class notebook. 
+5. Use no more than 200 words to describe a problem in Game Studies that will likely motivate your Project. Who or what, for instance, has been overlooked? Misinterpreted? Privileged or marginalized? Be specific and draw upon the class notebook.
+6. Use 2-3 sentences to share a goal you want to achieve via your Project. What do you want to learn? What question are you aiming to address? What do you hope to change? Be specific. 
+7. Use no more than 200 words to identify a [Module 1](https://jentery.github.io/mdia360v2/#module-1-culture-four-sessions) concept and explain its potential relevance to your Project. Support your remarks with at least one secondary source referenced in the notebook. 
+8. Use no more than 200 words to identify a [Module 2](https://jentery.github.io/mdia360v2/#module-2-play-and-metagaming-seven-sessions) concept and explain its potential relevance to your Project. Support your remarks with at least one secondary source referenced in the notebook. 
+9. Use no more than 200 words to identify two [Module 3](https://jentery.github.io/mdia360v2/#module-3-values-and-design-nine-sessions) concepts and explain their potential relevance to your Project. This response will be somewhat conjectural since we haven't completed Module 3. Don't hesitate to point to concepts scheduled for later in March.  
 10. Use no more than 200 words to outline your plan for completing the Final Project. What will you do first? Where will you go next? What don't you know that you need to know soon? What will you prioritize, and what will you save for later? Be sure to identify what's within and beyond the scope of your inquiry (that is, what you do and don't have the time and resources to address in this course).  
 
 ## Assessment 
