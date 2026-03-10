@@ -17,13 +17,13 @@ I recommend reviewing your WS1, WS2, and research prospectus before you begin th
 
 ## Scenario 
 
-Imagine that a publication venue invited you to submit an essay on a game and topic of your choice. The venue is open to a *video essay* (10-16 minutes) or *written essay* (1500-2500 words); either way, they want you to also include at least five minutes of *your own gameplay footage*. That way, the venue's audience has unique access to the game you select. 
+Imagine that a publication venue invited you to submit an essay on a game and topic of your choice. The venue is open to a *video essay* (10-20 minutes) or *written essay* (1500-2500 words); either way, they want you to also include at least five minutes of *your own gameplay footage*. That way, the venue's audience has unique access to the game you select. 
 
 Before you proceed, you should identify the publication venue by title. It should actually exist, and it should be active. Types of pertinent publication venues include academic journals, commercial or independent websites and magazines, and channels on video-sharing platforms. 
 
 ## Format 
 
-The venue says your video essay (10-16 minutes) or written essay (1500-2500 words) should:
+The venue says your video essay (10-20 minutes) or written essay (1500-2500 words) should:
 
 1. Have a descriptive yet engaging title. 
 2. Follow a recognizable theme from start to finish. 
@@ -32,7 +32,7 @@ The venue says your video essay (10-16 minutes) or written essay (1500-2500 word
 5. Engage a current topic in games. 
 6. Explain or demonstrate why the topic matters and for whom it matters most.
 7. Include at least five minutes of your own gameplay footage,
-8. Be intentionally scoped. (The goals should be clear, and the topic should be addressable in 10-16 minutes / 1500-2500 words.)  
+8. Be intentionally scoped. (The goals should be clear, and the topic should be addressable in 10-20 minutes / 1500-2500 words.)  
 9. Converse with existing work related to your game and theme.
 10. Acknowledge designers, developers, studios, and fellow critics by name. 
 11. Include credits or references.
