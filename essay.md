@@ -7,7 +7,7 @@
 
 # Final Project: Essay Option (DRAFT)
 
-The Essay Option for the Final Project in MDIA360 covers all course material since January 8th ("Situating Play"). Your response is due via Brightspace by Thursday, April 16th, at 1pm. The [Exhibit](exhibit.html) is your other option for the Final Project. It has the same due date.
+The Essay Option for the Final Project in MDIA360 covers all course material since January 8th ("Situating Play"). Your response is due via Brightspace by Monday, April 20th, at 1pm. The [Exhibit](exhibit.html) is your other option for the Final Project. It has the same due date.
 
 This assignment is *open-book*, meaning you are allowed to use the course website, the class notebook, your own notes, recordings of class sessions, the library, books, journal articles, games, and the internet to address the prompt.
 
@@ -80,4 +80,4 @@ Transcripts of video essays are welcome but not expected for this assignment.
 
 ## When to Submit It
 
-Your response to this assignment is due by 1pm on Thursday, April 16th. I will deduct ten points for every business day that I receive it after 1pm on Friday, April 17th. I will close the submission portal on Wednesday, April 22nd at 1pm and cannot accept any submissions after it's closed. I do not accept submissions by email. 
+Your response to this assignment is due by 1pm on Monday, April 20th. I will deduct ten points for every business day that I receive it after 1pm on Tuesday, April 21st. I will close the submission portal on Wednesday, April 22nd at 1pm and cannot accept any submissions after it's closed. I do not accept submissions by email. 
