@@ -5,7 +5,7 @@
 👨🏻‍🏫 Taught by [Jentery Sayers](https://jntry.work/) (he | him) | [jentery@uvic.ca](mailto:jentery@uvic.ca)    
 🗄️ Office hours: M and Th, 11:45am-12:45pm, in CLE D331    
 
-# Final Project: Essay Option (DRAFT)
+# Final Project: Essay Option
 
 The Essay Option for the Final Project in MDIA360 covers all course material since January 8th ("Situating Play"). Your response is due via Brightspace by Monday, April 20th, at 1pm. The [Exhibit](exhibit.html) is your other option for the Final Project. It has the same due date.
 
