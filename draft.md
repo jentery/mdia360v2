@@ -257,3 +257,5 @@ How do metagames regulate or police play?
 **Concepts**: abandonware, access, box art, collections, culturalization, edition, emulation, fair dealing or fair use, galleries, libraries, archives, and museums (GLAM), game magazines, game manuals, games as a service, hardware, localization, maintenance, media archaeology, metadata, migration, mods, ports, provenance, quality of life improvements, remakes and remasters, remediation, restoration, software, source code, and work-expression-manifestation-item  
 
 **References**: 
+
+<iframe height="420" width="640" allowfullscreen frameborder=0 src="https://echo360.ca/media/28628f6b-412c-4ddd-9846-9572bb0e7b68/public?autoplay=false&automute=false"></iframe>
