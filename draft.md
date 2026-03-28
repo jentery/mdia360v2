@@ -258,4 +258,3 @@ How do metagames regulate or police play?
 
 **References**: 
 
-<iframe height="420" width="640" allowfullscreen frameborder=0 src="https://echo360.ca/media/28628f6b-412c-4ddd-9846-9572bb0e7b68/public?autoplay=false&automute=false"></iframe>
