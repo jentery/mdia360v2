@@ -383,7 +383,7 @@ no exit ticket today
 
 *UVic is closed on April 3rd and 6th, and the exam period begins on April 7th.*
 
-## Th Apr. 16: Final Project
+## M Apr. 20: Final Project
 
 Please submit your final project by 1pm today. I hope you've a wonderful summer! 
 
